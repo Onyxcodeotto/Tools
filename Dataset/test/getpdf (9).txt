@@ -1,0 +1,329 @@
+Safety Data Sheet
+according to 29CFR1910/1200 and GHS Rev. 3
+Effective date : 12.14.2014 Page 1 of 8
+Calcium Hydroxide,
+Created by Global Safety Management, 1-813-435-5161 - www.GSMSDS.com
+SECTION 1: Identification of the substance/mixture and of the supplier
+Product name: Calcium Hydroxide,
+Manufacturer/Supplier Trade name:
+Manufacturer/Supplier Article number: S25225A
+Recommended uses of the product and restrictions on use:
+Manufacturer Details:
+AquaPhoenix Scientific, Inc
+9 Barnhart Drive, Hanover, PA 17331
+(717) 632-1291
+Supplier Details:
+Fisher Science Education
+6771 Silver Crest Road, Nazareth, PA 18064
+(724)517-1954
+Emergency telephone number:
+Fisher Science Education
+Emergency Telephone No.: 800-535-5053
+SECTION 2: Hazards identification
+Classification of the substance or mixture:
+Irritant
+Skin irritation, category 2
+Specific target organ toxicity following single exposure, category 3
+Corrosive
+Serious eye damage, category 1
+Skin Irritation 2.
+Eye Damage 1.
+Specific Target Organ Toxicity, Single Exposure (respiratory) 3.
+Signal word: Danger
+Hazard statements: None
+Precautionary statements:
+If medical advice is needed, have product container or label at hand.
+Keep out of reach of children.
+Read label before use.
+Wash … thoroughly after handling.
+Wear protective gloves/protective clothing/eye protection/face protection.
+Avoid breathing dust/fume/gas/mist/vapours/spray.
+Use only outdoors or in a well-ventilated area.
+Do not eat, drink or smoke when using this product.
+IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses if present and easy to do.
+Continue rinsing.
+If eye irritation persists get medical advice/attention.
+IF INHALED: Remove victim to fresh air and keep at rest in a position comfortable for breathing.
+Safety Data Sheet
+according to 29CFR1910/1200 and GHS Rev. 3
+Effective date : 12.14.2014 Page 2 of 8
+Calcium Hydroxide,
+Created by Global Safety Management, 1-813-435-5161 - www.GSMSDS.com
+IF ON SKIN: Wash with soap and water.
+If skin irritation occurs: Get medical advice/attention.
+Specific treatment (see … on this label).
+Store locked up.
+Store in a well ventilated place. Keep container tightly closed.
+Other Non-GHS Classification:
+WHMIS
+E
+NFPA/HMIS
+NFPA SCALE (0-4) HMIS RATINGS (0-4)
+SECTION 3: Composition/information on ingredients
+Ingredients:
+CAS 1305-62-0 Calcium Hydroxide >95 %
+Percentages are by weight
+SECTION 4: First aid measures
+Description of first aid measures
+After inhalation:
+Move exposed individual to fresh air. Loosen clothing as necessary and position individual in a comfortable
+position. Seek medical advice if discomfort or irritation persists. If breathing difficult, give oxygen.
+After skin contact:
+Wash affected area with soap and water. Rinse thoroughly. Seek medical attention if irritation, discomfort or
+vomiting persists.
+After eye contact:
+Protect unexposed eye. Rinse/flush exposed eye(s) gently using water for 15-20 minutes. Remove contact
+lens(es) if able to do so during rinsing. Seek medical attention if irritation persists or if concerned.
+After swallowing:
+Rinse mouth thoroughly. Do not induce vomiting. Have exposed individual drink sips of water. Seek medical
+attention if irritation, discomfort or vomiting persists.
+Most important symptoms and effects, both acute and delayed:
+Safety Data Sheet
+according to 29CFR1910/1200 and GHS Rev. 3
+Effective date : 12.14.2014 Page 3 of 8
+Calcium Hydroxide,
+Created by Global Safety Management, 1-813-435-5161 - www.GSMSDS.com
+Skin, eye, and upper respiratory tract irritation. Irritation. Nausea. Headache. Shortness of breath.
+Indication of any immediate medical attention and special treatment needed:
+If seeking medical attention, provide SDS document to physician.
+SECTION 5: Firefighting measures
+Extinguishing media
+Suitable extinguishing agents:
+If in laboratory setting, follow laboratory fire suppression procedures. Use appropriate fire suppression agents
+for adjacent combustible materials or sources of ignition.
+Unsuitable extinguishing agents:
+Carbon Dioxide.
+Special hazards arising from the substance or mixture:
+Combustion products may include carbon oxides or other toxic vapors. Thermal decomposition can lead to
+release of irritating gases and vapors. Avoid generating dust; fine dust dispersed in air in sufficient
+concentrations, and in the presence of an ignition source is a potential dust explosion hazard. Calcium Oxide.
+Advice for firefighters:
+Protective equipment:
+Use NIOSH-approved respiratory protection/breathing apparatus.
+Additional information (precautions):
+Move product containers away from fire or keep cool with water spray as a protective measure, where feasible.
+Use spark-proof tools and explosion-proof equipment.
+SECTION 6: Accidental release measures
+Personal precautions, protective equipment and emergency procedures:
+Wear protective equipment. Transfer to a disposal or recovery container. Use spark-proof tools and explosion-
+proof equipment. Use respiratory protective device against the effects of fumes/dust/aerosol. Keep unprotected
+persons away. Ensure adequate ventilation. Keep away from ignition sources. Protect from heat. Stop the spill,
+if possible. Contain spilled material by diking or using inert absorbent.
+Environmental precautions:
+Prevent from reaching drains, sewer or waterway. Collect contaminated soil for characterization per Section 13.
+Methods and material for containment and cleaning up:
+If in a laboratory setting, follow Chemical Hygiene Plan procedures. Collect liquids using vacuum or by use of
+absorbents. Place into properly labeled containers for recovery or disposal. If necessary, use trained response
+staff/contractor. Dust deposits should not be allowed to accumulate on surfaces, as these may form an
+explosive mixture if they are released into the atmosphere in sufficient concentration. Avoid dispersal of dust in
+the air (i.e., clearing dust surfaces with compressed air).
+Reference to other sections: None
+SECTION 7: Handling and storage
+Precautions for safe handling:
+Minimize dust generation and accumulation. Wash hands after handling. Avoid dispersal of dust in the air (i.e.,
+clearing dust surfaces with compressed air). Routine housekeeping should be instituted to ensure that dusts do
+not accumulate on surfaces. Dry powders can build static electricity charges when subjected to the friction of
+transfer and mixing operations. Follow good hygiene procedures when handling chemical materials. Do not eat,
+drink, smoke, or use personal products when handling chemical substances. If in a laboratory setting, follow
+Chemical Hygiene Plan. Use only in well ventilated areas. Avoid generation of dust or fine particulate. Avoid
+contact with eyes, skin, and clothing.
+Safety Data Sheet
+according to 29CFR1910/1200 and GHS Rev. 3
+Effective date : 12.14.2014 Page 4 of 8
+Calcium Hydroxide,
+Created by Global Safety Management, 1-813-435-5161 - www.GSMSDS.com
+Conditions for safe storage, including any incompatibilities:
+Store in a cool location. Provide ventilation for containers. Avoid storage near extreme heat, ignition sources or
+open flame. Store away from foodstuffs. Store away from oxidizing agents. Store in cool, dry conditions in well
+sealed containers. Keep container tightly sealed.
+SECTION 8: Exposure controls/personal protection
+Control Parameters: 1305-62-0, Calcium hydroxide, NIOSH REL: TWA 5 mg/m3.
+1305-62-0, Calcium hydroxide, ACGIH TLV TWA 5 mg/m3.
+1305-62-0, Calcium hydroxide, OSHA PEL TWA: 15 mg/m3 (total dust).
+1305-62-0, Calcium hydroxide, OSHA PEL TWA: 5 mg/m3 (respirable
+fraction).
+Appropriate Engineering controls: Emergency eye wash fountains and safety showers should be available in
+the immediate vicinity of use/handling. Provide exhaust ventilation or
+other engineering controls to keep the airborne concentrations of vapor
+or dusts (total/respirable) below the applicable workplace exposure limits
+(Occupational Exposure Limits-OELs) indicated above. Use under a fume
+hood. It is recommended that all dust control equipment such as local
+exhaust ventilation and material transport systems involved in handling
+of this product contain explosion relief vents or an explosion suppression
+system or an oxygen deficient environment. Ensure that dust-handling
+systems (such as exhaust ducts, dust collectors, vessels, and processing
+equipment) are designed in a manner to prevent the escape of dust into
+the work area (i.e., there is no leakage from the equipment).
+Respiratory protection: Not required under normal conditions of use. Use suitable respiratory
+protective device when high concentrations are present. Use suitable
+respiratory protective device when aerosol or mist is formed. For spills,
+respiratory protection may be advisable.
+Protection of skin: The glove material has to be impermeable and resistant to the product/
+the substance/ the preparation being used/handled. Selection of the glove
+material on consideration of the penetration times, rates of diffusion and
+the degradation.
+Eye protection: Safety glasses with side shields or goggles.
+General hygienic measures: The usual precautionary measures are to be adhered to when handling
+chemicals. Keep away from food, beverages and feed sources.
+Immediately remove all soiled and contaminated clothing. Wash hands
+before breaks and at the end of work. Do not inhale
+gases/fumes/dust/mist/vapor/aerosols. Avoid contact with the eyes and
+skin.
+SECTION 9: Physical and chemical properties
+Appearance (physical
+state, color): Off - white solid Explosion limit lower:
+Explosion limit upper:
+Not Determined
+Not Determined
+Odor: Odorless Vapor pressure at 20°C: Not Determined
+Odor threshold: Not Determined Vapor density: Not Determined
+pH-value: 12.4 saturated solution Relative density: 2.24
+Safety Data Sheet
+according to 29CFR1910/1200 and GHS Rev. 3
+Effective date : 12.14.2014 Page 5 of 8
+Calcium Hydroxide,
+Created by Global Safety Management, 1-813-435-5161 - www.GSMSDS.com
+Melting/Freezing point: 580 C Solubilities:
+ND = Not Determined. N/A =
+Not Applicable. Slightlyt soluble
+in water.
+Boiling point/Boiling
+range: 2850C Partition coefficient (n-
+octanol/water): Not Determined
+Flash point (closed cup): Not Determined Auto/Self-ignition
+temperature: Not Determined
+Evaporation rate: Not Determined Decomposition
+temperature: Not Determined
+Flammability (solid,
+gaseous): Not Determined Viscosity: a. Kinematic: Not Determined
+b. Dynamic: Not Determined
+Density at 20°C: Not Determined
+SECTION 10: Stability and reactivity
+Reactivity:
+Nonreactive under normal conditions.
+Chemical stability:
+No decomposition if used and stored according to specifications.
+Possible hazardous reactions:
+None under normal processing.
+Conditions to avoid:
+Store away from oxidizing agents, strong acids or bases. Incompatible Materials. Dust generation. excess heat.
+Incompatible materials:
+Metals, acids, bases, strong oxidizing and reducing agents.
+Hazardous decomposition products:
+Carbon oxides (CO, CO2). Oxides of calcium.
+SECTION 11: Toxicological information
+Acute Toxicity:
+Oral:
+7340 mg/kg LD50 (rat)
+Chronic Toxicity: No additional information.
+Corrosion Irritation: No additional information.
+Sensitization: No additional information.
+Numerical Measures: No additional information.
+Carcinogenicity: No additional information.
+Mutagenicity: No additional information.
+Reproductive Toxicity: No additional information.
+SECTION 12: Ecological information
+Ecotoxicity: No additional information.
+Persistence and degradability:
+Readily degradable in the environment.
+Bioaccumulative potential: No additional information.
+Mobility in soil: No additional information.
+Safety Data Sheet
+according to 29CFR1910/1200 and GHS Rev. 3
+Effective date : 12.14.2014 Page 6 of 8
+Calcium Hydroxide,
+Created by Global Safety Management, 1-813-435-5161 - www.GSMSDS.com
+Other adverse effects: No additional information.
+SECTION 13: Disposal considerations
+Waste disposal recommendations:
+Product/containers must not be disposed together with household garbage. Do not allow product to reach
+sewage system or open water. It is the responsibility of the waste generator to properly characterize all waste
+materials according to applicable regulatory entities (US 40CFR262.11). Consult federal state/ provincial and
+local regulations regarding the proper disposal of waste material that may incorporate some amount of this
+product.
+SECTION 14: Transport information
+US DOT
+UN Number:
+ADR, ADN, DOT, IMDG, IATA 3262
+Limited Quantity Exception: None
+Bulk: Non Bulk:
+RQ (if applicable): None RQ (if applicable): None
+Proper shipping Name: Corrosive solid,
+basic, inorganic, n.o.s.
+Proper shipping Name: Corrosive solid,
+basic, inorganic, n.o.s.
+Hazard Class: 8 Hazard Class: 8
+Packing Group: III. Packing Group: III.
+Marine Pollutant (if applicable): No
+additional information.
+Marine Pollutant (if applicable): No
+additional information.
+Comments: None Comments: None
+SECTION 15: Regulatory information
+United States (USA)
+SARA Section 311/312 (Specific toxic chemical listings):
+Acute
+SARA Section 313 (Specific toxic chemical listings):
+None of the ingredients are listed.
+RCRA (hazardous waste code):
+None of the ingredients are listed.
+TSCA (Toxic Substances Control Act):
+All ingredients are listed.
+CERCLA (Comprehensive Environmental Response, Compensation, and Liability Act):
+None of the ingredients are listed.
+Safety Data Sheet
+according to 29CFR1910/1200 and GHS Rev. 3
+Effective date : 12.14.2014 Page 7 of 8
+Calcium Hydroxide,
+Created by Global Safety Management, 1-813-435-5161 - www.GSMSDS.com
+Proposition 65 (California):
+Chemicals known to cause cancer:
+None of the ingredients are listed.
+Chemicals known to cause reproductive toxicity for females:
+None of the ingredients are listed.
+Chemicals known to cause reproductive toxicity for males:
+None of the ingredients are listed.
+Chemicals known to cause developmental toxicity:
+None of the ingredients are listed.
+Canada
+Canadian Domestic Substances List (DSL):
+All ingredients are listed.
+Canadian NPRI Ingredient Disclosure list (limit 0.1%):
+None of the ingredients are listed.
+Canadian NPRI Ingredient Disclosure list (limit 1%):
+1305-62-0 Calcium hydroxide.
+SECTION 16: Other information
+This product has been classified in accordance with hazard criteria of the Controlled Products Regulations and
+the SDS contains all the information required by the Controlled Products Regulations. Note. The responsibility to
+provide a safe workplace remains with the user. The user should consider the health hazards and safety
+information contained herein as a guide and should take those precautions required in an individual operation
+to instruct employees and develop work practice procedures for a safe work environment. The information
+contained herein is, to the best of our knowledge and belief, accurate. However, since the conditions of
+handling and use are beyond our control, we make no guarantee of results, and assume no liability for damages
+incurred by the use of this material. It is the responsibility of the user to comply with all applicable laws and
+regulations applicable to this material.
+GHS Full Text Phrases:  None
+Abbreviations and Acronyms: 
+IMDG International Maritime Code for Dangerous Goods.
+PNEC Predicted No-Effect Concentration (REACH).
+CFR Code of Federal Regulations (USA).
+SARA Superfund Amendments and Reauthorization Act (USA).
+RCRA Resource Conservation and Recovery Act (USA).
+TSCA Toxic Substances Control Act (USA).
+NPRI National Pollutant Release Inventory (Canada).
+DOT US Department of Transportation.
+IATA International Air Transport Association.
+GHS Globally Harmonized System of Classification and Labelling of Chemicals.
+ACGIH American Conference of Governmental Industrial Hygienists.
+CAS Chemical Abstracts Service (division of the American Chemical Society).
+NFPA National Fire Protection Association (USA).
+HMIS Hazardous Materials Identification System (USA).
+WHMIS Workplace Hazardous Materials Information System (Canada).
+Safety Data Sheet
+according to 29CFR1910/1200 and GHS Rev. 3
+Effective date : 12.14.2014 Page 8 of 8
+Calcium Hydroxide,
+Created by Global Safety Management, 1-813-435-5161 - www.GSMSDS.com
+DNEL Derived No-Effect Level (REACH).
+Effective date: 12.14.2014
+Last updated: 06.17.2015

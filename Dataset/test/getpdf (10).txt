@@ -1,0 +1,324 @@
+ 
+SAFETY DATA SHEET
+1. Identification
+Product Name Calcium hydroxide
+Cat No. : AC403850000; AC403850010; AC403850025; AC403850050
+Synonyms Biocalc; Calcium dihydrate; Calcium hydrate
+Recommended Use Laboratory chemicals
+Uses advised against No Information available
+Details of the supplier of the safety data sheet
+2. Hazard(s) identification
+Classification
+This chemical is considered hazardous by the 2012 OSHA Hazard Communication Standard (29 CFR 1910.1200)
+Label Elements
+Signal Word
+Danger
+Hazard Statements
+Causes severe skin burns and eye damage
+May cause respiratory irritation
+Precautionary Statements
+______________________________________________________________________________________________
+Page  1 / 8
+Skin Corrosion/irritation Category 1
+Company
+Fisher Scientific
+One Reagent Lane
+Fair Lawn, NJ 07410
+Tel: (201) 796-7100
+Serious Eye Damage/Eye Irritation Category 1
+Revision Number 1
+Specific target organ toxicity (single exposure) Category 3
+Entity / Business Name
+Acros Organics
+One Reagent Lane
+Fair Lawn, NJ 07410
+Target Organs -  Respiratory system.
+Emergency Telephone Number
+For information US call: 001-800-ACROS-01 /
+Europe call: +32 14 57 52 11
+Emergency Number US:001-201-796-7100 /
+Europe: +32 14 57 52 99
+CHEMTREC Tel. No.US:001-800-424-9300 /
+Europe:001-703-527-3887
+Creation Date  11-Oct-2010 Revision Date 31-Mar-2014
+______________________________________________________________________________________________
+Prevention
+Do not breathe dust/fume/gas/mist/vapors/spray
+Wash face, hands and any exposed skin thoroughly after handling
+Wear protective gloves/protective clothing/eye protection/face protection
+Use only outdoors or in a well-ventilated area
+Keep only in original container
+Response
+Immediately call a POISON CENTER or doctor/physician
+Inhalation
+IF INHALED: Remove victim to fresh air and keep at rest in a position comfortable for breathing
+Skin
+IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower
+Wash contaminated clothing before reuse
+Eyes
+IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing
+Ingestion
+IF SWALLOWED: Rinse mouth.  DO NOT induce vomiting
+Spills
+Absorb spillage to prevent material damage
+Storage
+Store locked up
+Store in a well-ventilated place. Keep container tightly closed
+Store in corrosive resistant polypropylene container with a resistant inliner
+Store in a dry place
+Disposal
+Dispose of contents/container to an approved waste disposal plant
+Hazards not otherwise classified (HNOC)
+None identified
+3. Composition / information on ingredients
+Haz/Non-haz
+Component CAS-No Weight %
+Calcium hydroxide 1305-62-0 >95
+4. First-aid measures
+Eye Contact Rinse immediately with plenty of water, also under the eyelids, for at least 15 minutes.
+Immediate medical attention is required.
+Skin Contact Wash off immediately with plenty of water for at least 15 minutes. Immediate medical attention
+is required.
+Inhalation Move to fresh air. If breathing is difficult, give oxygen. Do not use mouth-to-mouth resuscitation
+if victim ingested or inhaled the substance; induce artificial respiration with a respiratory
+medical device. Immediate medical attention is required.
+Ingestion Do not induce vomiting. Call a physician or Poison Control Center immediately.
+Most important symptoms/effects Causes eye burns.
+Notes to Physician Treat symptomatically.
+5. Fire-fighting measures
+______________________________________________________________________________________________
+Page  2 / 8
+Thermo Fisher Scientific  - Calcium hydroxide Revision Date 31-Mar-2014
+______________________________________________________________________________________________
+5. Fire-fighting measures
+Suitable Extinguishing Media Substance is nonflammable; use agent most appropriate to extinguish surrounding fire..
+Unsuitable Extinguishing Media Carbon dioxide (CO2)
+Flash Point Not applicable
+Method - No information available
+Autoignition Temperature No information available.
+Explosion Limits
+Upper No data available
+Lower No data available
+Sensitivity to Mechanical
+Impact
+No information available
+Sensitivity to Static Discharge No information available
+Specific Hazards Arising from the Chemical
+Non-combustible. Contact with metals may evolve flammable hydrogen gas.
+Hazardous Combustion Products Calcium oxides.
+Protective Equipment and Precautions for Firefighters
+As in any fire, wear self-contained breathing apparatus pressure-demand, MSHA/NIOSH (approved or equivalent) and full protective
+gear. Thermal decomposition can lead to release of irritating gases and vapors.
+NFPA
+6. Accidental release measures
+Personal Precautions Use personal protective equipment. Ensure adequate ventilation. Avoid dust formation. Do not
+get in eyes, on skin, or on clothing.
+Environmental Precautions Should not be released into the environment. See Section 12 for additional ecological
+Information.
+Methods for Containment and Clean
+Up
+Sweep up or vacuum up spillage and collect in suitable container for disposal. Avoid dust
+formation.
+7. Handling and storage
+Handling Wear personal protective equipment. Ensure adequate ventilation. Avoid dust formation. Do
+not breathe dust. Do not get in eyes, on skin, or on clothing. Do not ingest.
+Storage Keep containers tightly closed in a dry, cool and well-ventilated place. Corrosives area.
+8. Exposure controls / personal protection
+Exposure Guidelines
+Component ACGIH TLV OSHA PEL NIOSH IDLH
+Calcium hydroxide TWA: 5 mg/m 3 (Vacated) TWA: 5 mg/m3
+TWA: 15 mg/m3
+TWA: 5 mg/m3
+TWA: 5 mg/m3
+Component Quebec Mexico OEL (TWA) Ontario TWAEV
+Calcium hydroxide TWA: 5 mg/m 3 TWA: 5 mg/m3 TWA: 5 mg/m3
+______________________________________________________________________________________________
+Page  3 / 8
+Health
+3
+Revision Date 31-Mar-2014
+Flammability
+0
+Instability
+1
+Physical hazards
+N/A
+Thermo Fisher Scientific  - Calcium hydroxide
+______________________________________________________________________________________________
+Legend
+ACGIH - American Conference of Governmental Hygienists
+ Not applicable
+NIOSH IDLH: The National Institute for Occupational Safety and Health Immediately Dangerous to Life or Health
+Engineering Measures Ensure that eyewash stations and safety showers are close to the workstation location. Ensure
+adequate ventilation, especially in confined areas.
+Personal Protective Equipment
+Eye/face Protection Wear appropriate protective eyeglasses or chemical safety goggles as described by OSHA's
+eye and face protection regulations in 29 CFR 1910.133 or European Standard EN166.
+Skin and body protection Wear appropriate protective gloves and clothing to prevent skin exposure.
+Respiratory Protection Follow the OSHA respirator regulations found in 29 CFR 1910.134 or European Standard EN
+149. Use a NIOSH/MSHA or European Standard EN 149 approved respirator if exposure limits
+are exceeded or if irritation or other symptoms are experienced.
+Hygiene Measures Handle in accordance with good industrial hygiene and safety practice
+9. Physical and chemical properties
+Physical State Solid
+Appearance Off-white
+Odor Odorless
+Odor Threshold No information available.
+pH 12.4 saturated solution
+Melting Point/Range 580°C / 1076°F
+Boiling Point/Range 2850°C / 5162°F
+Flash Point Not applicable
+Evaporation Rate No information available.
+Flammability (solid,gas) No information available
+Flammability or explosive limits
+Upper No data available
+Lower No data available
+Vapor Pressure No information available.
+Vapor Density No information available.
+Relative Density 2.240
+Solubility No information available.
+Partition coefficient; n-octanol/water No data available
+Autoignition Temperature No information available.
+Decomposition temperature No information available.
+Viscosity No information available.
+Molecular Formula H2 Ca O2
+Molecular Weight 74.09
+10. Stability and reactivity
+Reactive Hazard None known, based on information available.
+Stability Stable under normal conditions. Air sensitive. Moisture sensitive.
+Conditions to Avoid Avoid dust formation. Incompatible products. Excess heat. Exposure to air or moisture over
+prolonged periods.
+Incompatible Materials Strong oxidizing agents, Metals, Reducing agents, Acids, Bases
+Hazardous Decomposition Products Calcium oxides
+______________________________________________________________________________________________
+Page  4 / 8
+Thermo Fisher Scientific  - Calcium hydroxide Revision Date 31-Mar-2014
+______________________________________________________________________________________________
+Hazardous Polymerization Hazardous polymerization does not occur.
+Hazardous Reactions Contact with metals may evolve flammable hydrogen gas.
+11. Toxicological information
+Acute Toxicity
+Component Information
+Component LD50 Oral LD50 Dermal LC50 Inhalation
+Calcium hydroxide 7340 mg/kg  ( Rat ) Not listed Not listed
+Toxicologically Synergistic
+Products
+No information available.
+Delayed and immediate effects as well as chronic effects from short and long-term exposure
+Irritation Causes severe eye burns, Causes skin burns, Irritating to respiratory system
+Sensitization No information available.
+Carcinogenicity The table below indicates whether each agency has listed any ingredient as a carcinogen
+Component CAS-No IARC NTP ACGIH OSHA Mexico
+Calcium hydroxide 1305-62-0 Not listed Not listed Not listed Not listed Not listed
+Mutagenic Effects No information available.
+Reproductive Effects No information available.
+Developmental Effects No information available.
+Teratogenicity No information available.
+STOT - single exposure Respiratory system.
+STOT - repeated exposure None known.
+Aspiration hazard No information available.
+Symptoms / effects,
+both acute and delayed
+No information available.
+Endocrine Disruptor Information No information available
+Other Adverse Effects The toxicological properties have not been fully investigated.. See actual entry in RTECS for
+complete information.
+12. Ecological information
+Ecotoxicity
+Do not empty into drains.
+Component Freshwater Algae Freshwater Fish Microtox Water Flea
+Calcium hydroxide Not listed 160 mg/L LC50 96 h Not listed Not listed
+Persistence and Degradability No information available.
+______________________________________________________________________________________________
+Page  5 / 8
+Thermo Fisher Scientific  - Calcium hydroxide Revision Date 31-Mar-2014
+______________________________________________________________________________________________
+Bioaccumulation/ Accumulation No information available
+Mobility No information available
+13. Disposal considerations
+Waste Disposal Methods Chemical waste generators must determine whether a discarded chemical is classified as a
+hazardous waste.  Chemical waste generators must also consult local, regional, and national
+hazardous waste regulations to ensure complete and accurate classification.
+14. Transport information
+DOT Not regulated
+TDG Not regulated
+IATA Not regulated
+IMDG/IMO Not regulated
+15. Regulatory information
+International Inventories
+Component TSCA DSL NDSL EINECS ELINCS NLP PICCS ENCS AICS IECSC KECL
+Calcium hydroxide X X - 215-137-3 - XXXXX
+Legend:
+X - Listed
+E - Indicates a substance that is the subject of a Section 5(e) Consent order under TSCA.
+F - Indicates a substance that is the subject of a Section 5(f) Rule under TSCA.
+N - Indicates a polymeric substance containing no free-radical initiator in its inventory name but is considered to cover the designated
+polymer made with any free-radical initiator regardless of the amount used.
+P - Indicates a commenced PMN substance
+R - Indicates a substance that is the subject of a Section 6 risk management rule under TSCA.
+S - Indicates a substance that is identified in a proposed or final Significant New Use Rule
+T - Indicates a substance that is the subject of a Section 4 test rule under TSCA.
+XU - Indicates a substance exempt from reporting under the Inventory Update Rule, i.e. Partial Updating of the TSCA Inventory Data Base
+Production and Site Reports (40 CFR 710(B).
+Y1 - Indicates an exempt polymer that has a number-average molecular weight of 1,000 or greater.
+Y2 - Indicates an exempt polymer that is a polyester and is made only from reactants included in a specified list of low concern reactants that
+comprises one of the eligibility criteria for the exemption rule.
+U.S. Federal Regulations
+TSCA 12(b) Not applicable
+SARA 313 Not applicable
+SARA 311/312 Hazardous Categorization
+Acute Health Hazard Yes
+Chronic Health Hazard No
+Fire Hazard No
+Sudden Release of Pressure Hazard No
+Reactive Hazard No
+Clean Water Act Not applicable
+Clean Air Act Not applicable
+______________________________________________________________________________________________
+Page  6 / 8
+Revision Date 31-Mar-2014Thermo Fisher Scientific  - Calcium hydroxide
+______________________________________________________________________________________________
+OSHA Occupational Safety and Health Administration
+ Not applicable
+CERCLA
+Not Applicable
+California Proposition 65 This product does not contain any Proposition 65 chemicals.
+State Right-to-Know
+Component Massachusetts New Jersey Pennsylvania Illinois Rhode Island
+Calcium hydroxide X X X - X
+U.S. Department of Transportation
+Reportable Quantity (RQ): N
+DOT Marine Pollutant N
+DOT Severe Marine Pollutant N
+U.S. Department of Homeland Security
+This product does not contain any DHS chemicals.
+Other International Regulations
+Mexico - Grade No information available
+Canada
+This product has been classified in accordance with the hazard criteria of the Controlled Products Regulations (CPR) and the
+MSDS contains all the information required by the CPR.
+WHMIS Hazard Class E    Corrosive material
+16. Other information
+Prepared By Regulatory Affairs
+Thermo Fisher Scientific
+Email: EMSDS.RA@thermofisher.com
+Creation Date 11-Oct-2010
+Revision Date 31-Mar-2014
+Print Date 31-Mar-2014
+Revision Summary This document has been updated to comply with the US OSHA HazCom 2012 Standard
+replacing the current legislation under 29 CFR 1910.1200 to align with the Globally
+Harmonized System of Classification and Labeling of Chemicals (GHS).
+______________________________________________________________________________________________
+Page  7 / 8
+Thermo Fisher Scientific  - Calcium hydroxide Revision Date 31-Mar-2014
+______________________________________________________________________________________________
+Disclaimer
+The information provided on this Safety Data Sheet is correct to the best of our knowledge, information and belief at the date
+of its publication.  The information given is designed only as a guide for safe handling, use, processing, storage,
+transportation, disposal and release and is not to be considered as a warranty or quality specification.  The information
+relates only to the specific material designated and may not be valid for such material used in combination with any other
+material or in any process, unless specified in the text.
+End of SDS
+______________________________________________________________________________________________
+Page  8 / 8
+Thermo Fisher Scientific  - Calcium hydroxide Revision Date 31-Mar-2014

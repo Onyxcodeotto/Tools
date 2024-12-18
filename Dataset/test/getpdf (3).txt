@@ -1,0 +1,405 @@
+ 
+ Page 1/8
+Safety Data Sheet
+acc. to OSHA HCS
+Printing date 06/24/2024 Reviewed on 06/24/2024
+59.0
+* 1 Identification
+· Product identifier
+· Trade name: Calcium Hydroxide, Lab Gr Powder
+· Article number: 030-0090
+· CAS Number:
+1305-62-0
+· EC number:
+215-137-3
+· Application of the substance / the mixture Laboratory chemicals
+· Details of the supplier of the safety data sheet
+· Manufacturer/Supplier:
+Aqua Solutions, Inc.
+6913 Highway 225
+DEER PARK, TX 77536
+USA
+800-256-2586
+· Information department:
+techservices@ofite.com
+Technical Coordinator
+Sherman Nelson shermann@aquasolutions.org
+· Emergency telephone number:
+Chemtrec: 800-424-9300
+Canutec: 613-996-6666
+* 2 Hazard(s) identification
+· Classification of the substance or mixture
+d~
+GHS05 Corrosion
+Eye Damage 1 H318 Causes serious eye damage.
+d~
+GHS07
+Skin Irritation 2 H315 Causes skin irritation.
+Specific Target Organ Toxicity - Single Exposure 3 H335 May cause respiratory irritation.
+· Label elements
+· GHS label elements The substance is classified and labeled according t o the Globally Harmonized System (GHS).
+· Hazard pictograms
+d~
+GHS05
+d~
+GHS07
+· Signal word Danger
+· Hazard statements
+Causes skin irritation.
+Causes serious eye damage.
+May cause respiratory irritation.
+(Contd. on page 2)
+ US 
+Page 2/8
+Safety Data Sheet
+acc. to OSHA HCS
+Printing date 06/24/2024 Reviewed on 06/24/2024
+Trade name: Calcium Hydroxide, Lab Gr Powder
+(Contd. of page 1)
+59.0
+· Precautionary statements
+Avoid breathing dust/fume/gas/mist/vapors/spray
+Wash thoroughly after handling.
+Use only outdoors or in a well-ventilated area.
+Wear protective gloves / eye protection / face protection.
+If on skin: Wash with plenty of water.
+IF INHALED: Remove person to fresh air and keep comfortable for breathing.
+If in eyes: Rinse cautiously with water for several  minutes. Remove contact lenses, if present and eas y to do.
+Continue rinsing.
+Immediately call a poison center/doctor.
+Specific treatment (see on this label).
+Take off contaminated clothing and wash it before reuse.
+If skin irritation occurs: Get medical advice/atten tion.
+Store in a well-ventilated place. Keep container ti ghtly closed.
+Store locked up.
+Dispose of contents/container in accordance with local/regional/national/international regulations.
+· Classification system:
+· NFPA ratings (scale 0 - 4)
+3
+0
+0
+Health = 3
+Fire = 0
+Reactivity = 0
+· HMIS-ratings (scale 0 - 4)
+  HEALTH 
+  FIRE 
+  REACTIVITY 
+3
+0
+0
+Health = 3
+Fire = 0
+Reactivity = 0
+· Other hazards
+· Results of PBT and vPvB assessment
+· PBT: Not applicable.
+· vPvB: Not applicable.
+* 3 Composition/information on ingredients
+· Chemical characterization: Substances
+· CAS No. Description
+CAS: 1305-62-0 Calcium Hydroxide, Reagent ACS Grade
+· Identification number(s)
+· EC number: 215-137-3
+* 4 First-aid measures
+· Description of first aid measures
+· After inhalation: In case of unconsciousness place patient stably in side position for transportation.
+· After skin contact: Immediately wash with water and soap and rinse thor oughly.
+· After eye contact: Rinse opened eye for several minutes under running water. Then consult a doctor.
+· After swallowing: If symptoms persist consult doctor.
+· Information for doctor:
+· Most important symptoms and effects, both acute and  delayed No further relevant information available.
+(Contd. on page 3)
+ US 
+Page 3/8
+Safety Data Sheet
+acc. to OSHA HCS
+Printing date 06/24/2024 Reviewed on 06/24/2024
+Trade name: Calcium Hydroxide, Lab Gr Powder
+(Contd. of page 2)
+59.0
+· Indication of any immediate medical attention and s pecial treatment needed
+No further relevant information available.
+5 Fire-fighting measures
+· Extinguishing media
+· Suitable extinguishing agents: Use fire fighting measures that suit the environmen t.
+· Special hazards arising from the substance or mixtu re No further relevant information available.
+· Advice for firefighters
+· Protective equipment: No special measures required.
+* 6 Accidental release measures
+· Personal precautions, protective equipment and emer gency procedures
+Wear protective equipment. Keep unprotected persons  away.
+· Environmental precautions: Do not allow to enter sewers/ surface or ground wat er.
+· Methods and material for containment and cleaning u p:
+Use neutralizing agent.
+Dispose contaminated material as waste according to section 13.
+Ensure adequate ventilation.
+· Reference to other sections
+See Section 7 for information on safe handling.
+See Section 8 for information on personal protection equipment.
+See Section 13 for disposal information.
+· Protective Action Criteria for Chemicals
+· PAC-1: Substance is not listed.
+· PAC-2: Substance is not listed.
+· PAC-3: Substance is not listed.
+7 Handling and storage
+· Handling:
+· Precautions for safe handling Thorough dedusting.
+· Information about protection against explosions and  fires: No special measures required.
+· Conditions for safe storage, including any incompat ibilities
+· Storage:
+· Requirements to be met by storerooms and receptacle s: No special requirements.
+· Information about storage in one common storage fac ility: Not required.
+· Further information about storage conditions: Keep receptacle tightly sealed.
+· Specific end use(s) No further relevant information available.
+* 8 Exposure controls/personal protection
+· Additional information about design of technical sy stems: No further data; see section 7.
+· Control parameters
+· Components with limit values that require monitoring at the workplace: Not required.
+· Additional information: The lists that were valid during the creation were used as basis.
+(Contd. on page 4)
+ US 
+Page 4/8
+Safety Data Sheet
+acc. to OSHA HCS
+Printing date 06/24/2024 Reviewed on 06/24/2024
+Trade name: Calcium Hydroxide, Lab Gr Powder
+(Contd. of page 3)
+59.0
+· Exposure controls
+· Personal protective equipment:
+· General protective and hygienic measures:
+Keep away from foodstuffs, beverages and feed.
+Immediately remove all soiled and contaminated clothing.
+Wash hands before breaks and at the end of work.
+Avoid contact with the skin.
+Avoid contact with the eyes and skin.
+· Breathing equipment:
+In case of brief exposure or low pollution use respiratory filter device. In case of intensive or long er exposure use
+respiratory protective device that is independent o f circulating air.
+· Protection of hands:
+_S
+Protective gloves
+The glove material has to be impermeable and resist ant to the product/ the substance/ the preparation.
+Due to missing tests no recommendation to the glove  material can be given for the product/ the prepara tion/ the
+chemical mixture.
+Selection of the glove material on consideration of the penetration times, rates of diffusion and the degradation
+· Material of gloves
+The selection of the suitable gloves does not only depend on the material, but also on further marks o f quality and
+varies from manufacturer to manufacturer.
+· Penetration time of glove material
+The exact break through time has to be found out by the manufacturer of the protective gloves and has to be
+observed.
+· Eye protection:
+_R
+Tightly sealed goggles
+· Body protection: Protective work clothing
+9 Physical and chemical properties
+· Information on basic physical and chemical properti es
+· General Information
+· Appearance:
+Form: Powder
+Color: White
+· Odor: Light
+· Odor threshold: Not determined.
+· pH-value: Not applicable.
+· Change in condition
+Melting point/Melting range: 2 °C (35.6 °F)
+Boiling point/Boiling range: Undetermined.
+· Flash point: Not applicable.
+· Flammability (solid, gaseous): Product is not flammable.
+(Contd. on page 5)
+ US 
+Page 5/8
+Safety Data Sheet
+acc. to OSHA HCS
+Printing date 06/24/2024 Reviewed on 06/24/2024
+Trade name: Calcium Hydroxide, Lab Gr Powder
+(Contd. of page 4)
+59.0
+· Decomposition temperature: Not determined.
+· Ignition temperature: Not determined.
+· Danger of explosion: Product does not present an explosion hazard.
+· Explosion limits:
+Lower: Not determined.
+Upper: Not determined.
+· Vapor pressure at 20 °C (68 °F): 0 hPa
+· Density at 20 °C (68 °F): 2.24 g/cm³ (18.6928 lbs/gal)
+· Bulk density: 400 kg/m³
+· Relative density Not determined.
+· Vapor density Not applicable.
+· Evaporation rate Not applicable.
+· Solubility in / Miscibility with
+Water at 20 °C (68 °F): 1.7 g/l
+· Partition coefficient (n-octanol/water): Not determined.
+· Viscosity:
+Dynamic: Not applicable.
+Kinematic: Not applicable.
+· Other information No further relevant information available.
+10 Stability and reactivity
+· Reactivity No further relevant information available.
+· Chemical stability
+· Thermal decomposition / conditions to be avoided: No decomposition if used according to specification s.
+· Possibility of hazardous reactions No dangerous reactions known.
+· Conditions to avoid No further relevant information available.
+· Incompatible materials: No further relevant information available.
+· Hazardous decomposition products: No dangerous decomposition products known.
+* 11 Toxicological information
+· Information on toxicological effects
+· Acute toxicity:
+· Primary irritant effect:
+· on the skin: Irritant to skin and mucous membranes.
+· on the eye: Strong irritant with the danger of severe eye injur y.
+· Sensitization: No sensitizing effects known.
+· Additional toxicological information:
+· Carcinogenic categories
+· IARC (International Agency for Research on Cancer) Substance is not listed.
+· NTP (National Toxicology Program) Substance is not listed.
+· OSHA-Ca (Occupational Safety & Health Administratio n) Substance is not listed.
+ US 
+(Contd. on page 6)
+Page 6/8
+Safety Data Sheet
+acc. to OSHA HCS
+Printing date 06/24/2024 Reviewed on 06/24/2024
+Trade name: Calcium Hydroxide, Lab Gr Powder
+(Contd. of page 5)
+59.0
+12 Ecological information
+· Toxicity
+· Aquatic toxicity: No further relevant information available.
+· Persistence and degradability No further relevant information available.
+· Behavior in environmental systems:
+· Bioaccumulative potential No further relevant information available.
+· Mobility in soil No further relevant information available.
+· Additional ecological information:
+· General notes:
+Water hazard class 1 (Assessment by list): slightly hazardous for water
+Do not allow undiluted product or large quantities of it to reach ground water, water course or sewage  system.
+Must not reach bodies of water or drainage ditch un diluted or unneutralized.
+· Results of PBT and vPvB assessment
+· PBT: Not applicable.
+· vPvB: Not applicable.
+· Other adverse effects No further relevant information available.
+13 Disposal considerations
+· Waste treatment methods
+· Recommendation:
+Must not be disposed of together with household garbage. Do not allow product to reach sewage system.
+· Uncleaned packagings:
+· Recommendation: Disposal must be made according to official regulat ions.
+* 14 Transport information
+· UN-Number
+· DOT, ADN, IMDG, IATA Not regulated
+· UN proper shipping name
+· DOT, ADN, IMDG, IATA Not regulated
+· Transport hazard class(es)
+· DOT, ADN, IMDG, IATA
+· Class Not regulated
+· Packing group
+· DOT, IMDG, IATA Not regulated
+· Environmental hazards:
+· Marine pollutant: No
+· Special precautions for user Not applicable.
+· Segregation groups (SGG18) Alkalis
+· Transport in bulk according to Annex II of
+MARPOL73/78 and the IBC CodeNot applicable.
+· Transport/Additional information:
+· DOT
+· Remarks: Not regulated
+(Contd. on page 7)
+ US 
+Page 7/8
+Safety Data Sheet
+acc. to OSHA HCS
+Printing date 06/24/2024 Reviewed on 06/24/2024
+Trade name: Calcium Hydroxide, Lab Gr Powder
+(Contd. of page 6)
+59.0
+· IMDG
+· Remarks: Not regulated
+· IATA
+· Remarks: Not regulated
+· UN "Model Regulation": Not regulated
+* 15 Regulatory information
+· Safety, health and environmental regulations/legislation specific for the substance or mixture
+No further relevant information available.
+· Sara
+· Section 355 (extremely hazardous substances): Substance is not listed.
+· Section 313 (Specific toxic chemical listings): Substance is not listed.
+· TSCA (Toxic Substances Control Act):
+· Hazardous Air Pollutants Substance is not listed.
+· Proposition 65
+· Chemicals known to cause cancer: Substance is not listed.
+· Chemicals known to cause reproductive toxicity for females: Substance is not listed.
+· Chemicals known to cause reproductive toxicity for males: Substance is not listed.
+· Chemicals known to cause developmental toxicity: Substance is not listed.
+· Carcinogenic categories
+· EPA (Environmental Protection Agency) Substance is not listed.
+· TLV (Threshold Limit Value) Substance is not listed.
+· NIOSH-Ca (National Institute for Occupational Safety and Health) Substance is not listed.
+· GHS label elements The substance is classified and labeled according t o the Globally Harmonized System (GHS).
+· Hazard pictograms
+d~
+GHS05
+d~
+GHS07
+· Signal word Danger
+· Hazard statements
+Causes skin irritation.
+Causes serious eye damage.
+May cause respiratory irritation.
+· Precautionary statements
+Avoid breathing dust/fume/gas/mist/vapors/spray
+Wash thoroughly after handling.
+Use only outdoors or in a well-ventilated area.
+Wear protective gloves / eye protection / face protection.
+If on skin: Wash with plenty of water.
+IF INHALED: Remove person to fresh air and keep comfortable for breathing.
+If in eyes: Rinse cautiously with water for several  minutes. Remove contact lenses, if present and eas y to do.
+Continue rinsing.
+Immediately call a poison center/doctor.
+Specific treatment (see on this label).
+Take off contaminated clothing and wash it before reuse.
+If skin irritation occurs: Get medical advice/atten tion.
+(Contd. on page 8)
+ US 
+Page 8/8
+Safety Data Sheet
+acc. to OSHA HCS
+Printing date 06/24/2024 Reviewed on 06/24/2024
+Trade name: Calcium Hydroxide, Lab Gr Powder
+(Contd. of page 7)
+59.0
+Store in a well-ventilated place. Keep container ti ghtly closed.
+Store locked up.
+Dispose of contents/container in accordance with local/regional/national/international regulations.
+· Chemical safety assessment: A Chemical Safety Assessment has not been carried o ut.
+* 16 Other information
+This information is based on our present knowledge.  However, this shall not constitute a guarantee for  any
+specific product features and shall not establish a  legally valid contractual relationship.
+· Department issuing SDS: Environment protection department.
+· Contact:
+Date of Preparation / Last Revision:
+· Date of preparation / last revision
+Revision 0.1, 06/24/2024: Reviewed SDS for accuracy. MH/STN
+06/24/2024 / 1.5
+· Abbreviations and acronyms:
+IMDG: International Maritime Code for Dangerous Goo ds
+DOT: US Department of Transportation
+IATA: International Air Transport Association
+EINECS: European Inventory of Existing Commercial Chemical Substances
+CAS: Chemical Abstracts Service (division of the Am erican Chemical Society)
+NFPA: National Fire Protection Association (USA)
+HMIS: Hazardous Materials Identification System (USA)
+PBT: Persistent, Bioaccumulative and Toxic
+vPvB: very Persistent and very Bioaccumulative
+NIOSH: National Institute for Occupational Safety
+OSHA: Occupational Safety & Health
+TLV: Threshold Limit Value
+PEL: Permissible Exposure Limit
+REL: Recommended Exposure Limit
+Skin Irritation 2: Skin corrosion/irritation – Category 2
+Eye Damage 1: Serious eye damage/eye irritation – C ategory 1
+Specific Target Organ Toxicity - Single Exposure 3:  Specific target organ toxicity (single exposure) –  Category 3
+· * Data compared to the previous version altered.   
+ US 
