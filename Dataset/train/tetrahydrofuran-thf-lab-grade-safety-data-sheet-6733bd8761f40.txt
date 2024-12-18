@@ -1,0 +1,362 @@
+Laballey.com Page 1 of 11
+www.laballey.com
+512-668-9918
+Tetrahydrofuran (THF) Lab Grade
+SAFETY DATA SHEET
+SECTION 1: Identification of the substance/mixture and of the company/undertaking
+1.1 Product identifiers
+Product name Tetrahydrofuran
+CAS number 109-99-9
+Synonyms THF; Diethylene oxide; Furanidine
+1.2 Relevant identified uses of the substance or mixture and uses advised against
+Identified uses Laboratory chemicals.
+1.3 Details of the supplier of the safety data sheet
+Company Lab Alley, LLC
+12501 Pauls Valley Road 
+Austin, Texas 78737
+U.S.A.
+Telephone 512-668-9918
+Fax 512-886-4008
+1.4 Emergency telephone
+Emergency Phone # US & Canada: 1-800-535-5053 INFOTRAC
+International 1-352-323-3500 INFOTRAC
+SECTION 2: Hazards identification
+2.1 Classification of the substance or mixture
+GHS Classification in accordance with 29 CFR 1910 (OSHA HCS)
+Flammable Liquids Category 2
+Acute Oral Toxicity Category 4
+Serious Eye Damage/Eye Irritation Category 2
+Carcinogenicity Category 2
+Specific Target Organ Toxicity (single exposure)Category 3
+       Target Organ(s) - Respiratory system, Central nervous system (CNS)
+
+Laballey.com Page 2 of 11
+2.2 GHS Label elements, including precautionary statements
+Pictogram
+Signal Word Danger
+Hazard statementsHighly flammable liquid and vapor.
+Harmful if swallowed.
+Causes serious eye irritation.
+May cause respiratory irritation.
+May cause drowsiness or dizziness.
+Suspected of causing cancer.
+Precautionary 
+statements
+Prevention: Obtain special instructions before use. Do not handle until all 
+safety precautions have been read and understood. Use personal protective 
+equipment as required. Wash face, hands, and any exposed skin thoroughly 
+after handling. Do not eat, drink, or smoke when using this product. Wear 
+eye/face protection. Do not breathe dust/fume/gas/mist/vapors/spray. Use 
+only outdoors or in a well-ventilated area. Keep away from heat/sparks/open 
+flames/hot surfaces. No smoking. Keep container tightly closed. Ground/bond 
+container and receiving equipment. Use explosion-proof 
+electrical/ventilating/lighting equipment. Use only non-sparking tools. Take 
+precautionary measures against static discharge. Keep cool.
+Response: IF exposed or concerned, get medical attention/advice.
+IF INHALED: Remove victim to fresh air and keep at rest in a position 
+comfortable for breathing.
+IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse 
+skin with water/shower.
+IF IN EYES: Rinse cautiously with water for several minutes. Remove contact 
+lenses, if present and easy to do. Continue rinsing. If eye irritation persists: 
+Get medical advice/attention.
+IF SWALLOWED: Call a POISON CENTER or doctor/physician if you feel 
+unwell. Rinse mouth.
+Fire: In case of fire, use CO2, dry chemical, or foam for extinction.
+Storage: Store locked up. Store in a well-ventilated place. Keep container 
+tightly closed.
+
+Laballey.com Page 3 of 11
+Disposal: Dispose of contents/container to an approved waste disposal plant.
+2.3 Hazards not otherwise classified (HNOC) or not covered by GHS
+May form explosive peroxides.
+WARNING: Cancer.
+SECTION 3: Composition/information on ingredients
+3.1 Components
+Chemical name Common name and synonymsCAS numberConcentration
+Tetrahydrofuran THF; Diethylene oxide; Furanidine109-99-9 <=100%
+SECTION 4: First aid measures
+4.1 Description of first-aid measures
+General advice
+If inhaled Remove to fresh air. If not breathing, give artificial respiration. Get medical 
+attention if symptoms occur.
+In case of skin contact                     :Wash off immediately with plenty of water for at least 15 minutes. If skin 
+irritation persists, call a physician.
+In case of eye contact                      :Rinse immediately with plenty of water, also under the eyelids, for at least 15 
+minutes. Get medical attention.
+If swallowed Clean mouth with water and drink afterwards plenty of water.
+4.2 Most important symptoms and effects, both acute and delayed
+Difficulty in breathing. Symptoms of overexposure may be headache, dizziness, tiredness, 
+nausea, and vomiting. Causes central nervous system depression.
+4.3 Indication of any immediate medical attention and special treatment needed
+If symptoms persist, call a physician. Treat symptomatically.
+SECTION 5: Firefighting measures
+5.1 Extinguishing media
+Laballey.com Page 4 of 11
+Suitable extinguishing media Water spray, carbon dioxide (CO2), dry chemical, 
+alcohol-resistant foam. Water mist maybe used to 
+cool closed containers.
+Unsuitable extinguishing mediaWater may be ineffective.
+5.2 Specific hazards arising from the substance or mixture
+Flammable. Containers may explode when heated. Vapors may form explosive mixtures with 
+air. Vapors may travel to source of ignition and flash back. May form explosive peroxides.
+Hazardous Combustion Products: Carbon monoxide (CO). Carbon dioxide (CO2). Peroxides.
+5.3 Special protective equipment and precautions for firefighters
+As in any fire, wear self-contained breathing apparatus pressure-demand, MSHA/NIOSH 
+(approved or equivalent) and full protective gear.
+5.4 Further information
+Flash Point -14°C (6°F) - Closed Cup
+Autoignition Temperature 321.0 °C (609.8 °F)
+Explosion limits
+Upper 11.8% (V)
+Lower 2% (V)
+Sensitivity to Mechanical ImpactNo information available.
+Sensitivity to Static DischargeNo information available.
+NFPA
+Health FlammabilityInstabilityPhysical hazards
+2 3 1 N/A
+SECTION 6: Accidental release measures
+6.1 Personal precautions, protective equipment and emergency procedures
+Use personal protective equipment as required. Ensure adequate ventilation. Remove all
+sources of ignition. Take precautionary measures against static discharges.
+6.2 Environmental precautions
+Should not be released into the environment.
+6.3 Methods and materials for containment and cleaning up
+Soak up with inert absorbent material. Keep in suitable, closed containers for disposal. 
+Remove all sources of ignition. Use spark-proof tools and explosion-proof equipment.
+Laballey.com Page 5 of 11
+6.4 Reference to other sections
+See Section 2 for full list of hazard and precaution statements. 
+SECTION 7: Handling and storage
+7.1 Precautions for safe handling
+Precautions on safe handling
+Work under hood. Do not inhale substance/mixture. Avoid generation of vapours/aerosols. 
+Keep away from open flames, hot surfaces, and sources of ignition. Take precautionary 
+measures against static discharge.
+Hygiene measures
+Handle in accordance with good industrial hygiene and safety practice.
+7.2 Conditions for safe storage, including any incompatibilities
+Storage conditions
+Flammables area. Keep container tightly closed in a dry and well-ventilated place. Keep away 
+from heat and sources of ignition. Containers which are opened must be carefully resealed 
+and kept upright to prevent leakage. Test for peroxide formation periodically and before 
+distillation. 
+Incompatibilities
+Strong oxidizing agents. Acids.
+SECTION 8: Exposure controls/personal protection
+8.1 Occupational exposure limits
+US. OSHA Table Z-1 Limits for Air Contaminants (29 CFR 1910.1000) 
+Component Type Value
+Tetrahydrofuran
+(Vacated) TWA 200 ppm 590 mg/m3
+(Vacated) STEL 250 ppm 735 mg/m3
+TWA 200 ppm 590 mg/m3
+US. ACGIH Threshold Limit Values
+Component Type Value
+Tetrahydrofuran TWA 50 ppm
+STEL 100 ppm
+US. NIOSH: Pocket Guide to Chemical Hazards
+Component Type Value
+Tetrahydrofuran
+IDLH 2000 ppm
+TWA 200 ppm 590 mg/m3
+STEL 250 ppm 735 mg/m3
+Laballey.com Page 6 of 11
+ACGIH Biological Exposure Indices
+Component Parameter Specimen Value
+Tetrahydrofuran Tetrahydrofuran Urine 2 mg/L
+8.2 Exposure controls
+Appropriate engineering controls
+Use explosion-proof electrical/ventilating/lighting equipment. Ensure that eyewash stations 
+and safety showers are close to the workstation location. Ensure adequate ventilation, 
+especially in confined areas.
+Personal protective equipment
+Eye/face protection
+Wear appropriate protective eyeglasses or chemical safety goggles as described 
+by OSHA's eye and face protection regulations in 29 CFR 1910.133 or European 
+Standard EN166.
+Skin protection
+Wear appropriate protective gloves and clothing to prevent skin exposure.
+Body Protection
+Wear appropriate protective gloves and clothing to prevent skin exposure.
+Respiratory protection
+Follow the OSHA respirator regulations found in 29 CFR 1910.134 or European 
+Standard EN 149. Use a NIOSH/MSHA or European Standard EN 149 approved 
+respirator if exposure limits are exceeded or if irritation or other symptoms are 
+experienced.
+Recommended Filter type: Type A. Organic gases and vapours filter. Brown. 
+Conforming to EN14387.
+Control of environmental exposure
+Do not let product enter drains. Risk of explosion.
+SECTION 9: Physical and chemical properties
+9.1 Information on basic physical and chemical properties
+Physical State Liquid
+Appearance Colorless
+Odor No information available
+Odor Threshold No information available
+pH ca. 7 - 8
+Melting Point/Range -108.0 °C (-162.4 °F)
+Boiling Point/Range 65.0 - 67.0 °C (149.0 - 152.6 °F)
+Evaporation Rate No information available
+Laballey.com Page 7 of 11
+Flammability (solid) Not applicable
+Flammability or explosive limit
+Upper 11.8% (V)
+Lower 2% (V)
+Vapor Pressure 190.7 hPa (143.0 mmHg) at 20.0 °C (68.0 °F) 
+Vapor Density 2.1
+Density 1.049 g/mL at 25 °C (77 °F)
+Solubility Soluble in water
+Partition coefficient; 
+n-octanol/water
+log Pow: 0.45 at 25 °C (77 °F)
+Autoignition Temp 321.0 °C (609.8 °F)
+Decomposition Temp No information available
+Viscosity No information available
+Molecular Formula C4H8O
+Molecular Weight 72.11 g/mol
+VOC Content(%) No information available
+Oxidizing properties Not oxidizing
+9.2 Other safety information
+No information available.
+SECTION 10: Stability and reactivity
+10.1Reactivity
+Formation of peroxides possible. Vapors may form explosive mixture with air. 
+10.2Chemical stability
+Stable under recommended storage conditions. Reacts with air to form peroxides. May form 
+explosive peroxides on prolonged storage. Hygroscopic.
+10.3Possibility of hazardous reactions
+None under normal processing.
+10.4Conditions to avoid
+Incompatible products. Excess heat. Keep away from open flames, hot surfaces, and sources 
+of ignition. Exposure to moist air or water.
+10.5Incompatible materials
+Strong oxidizing agents, Acids.
+10.6Hazardous decomposition products
+Carbon monoxide (CO), Carbon dioxide (CO2), peroxides.
+SECTION 11: Toxicological information
+11.1Information on toxicological effects
+Laballey.com Page 8 of 11
+Product Information, Component Information
+Acute toxicity
+Component LD50 Oral LD50 Dermal LC50 Inhalation
+Tetrahydrofuran 1650 mg/kg (Rat)> 2000 mg/kg (Rabbit)180 mg/L (Rat) 1 h
+53.9 mg/L (Rat) 4 h
+Skin corrosion/irritation
+No information available.
+Serious eye damage/eye irritation
+Irritating to eyes.
+Respiratory or skin sensitization
+May cause irritation of respiratory tract.
+Germ cell mutagenicity
+No information available.
+Carcinogenicity
+Component CAS IARC NTP ACGIH OSHA Mexico
+Tetrahydrofuran 109-99-9Group 2BNot listed A3 X A3
+Specific target organ toxicity - single exposure
+Respiratory system, Central nervous system (CNS).
+Specific target organ toxicity - repeated exposure
+None known.
+Reproductive toxicity
+No information available.
+Chronic effects
+Symptoms of overexposure may be headache, dizziness, tiredness, nausea, and vomiting. 
+Causes central nervous system depression.
+11.2Additional Information
+The toxicological properties have not been fully investigated.
+SECTION 12: Ecological information
+12.1Toxicity
+Do not empty into drains.
+Product Species Test Results
+Tetrahydrofuran
+LC50 Pimephales promelas 2160 mg/L/96h
+LC50 Leuciscus idus 2820 mg/L/48h
+Laballey.com Page 9 of 11
+Tetrahydrofuran
+EC50 Water Flea 3485 mg/L/48h
+>10000 mg/L/24h
+12.2Persistence and degradability
+Persistence is unlikely based on information available.
+12.3Bio accumulative potential
+No information available.
+12.4Mobility in soil
+Will likely be mobile in the environment due to its volatility.
+12.5Results of PBT and vPvB assessment
+No information available.
+12.6Endocrine disrupting properties
+Listed as a Group III Chemical on the EU Endocrine Disrupters Candidate List.
+12.7Other adverse effects
+No information available.
+SECTION 13: Disposal considerations
+13.1Waste Disposal Methods
+Chemical waste generators must determine whether a discarded chemical is classified as a 
+hazardous waste. Chemical waste generators must also consult local, regional, and national 
+hazardous waste regulations to ensure complete and accurate classification.
+Component RCRA - U Series WastesRCRA - P Series Wastes
+Tetrahydrofuran - 109-99-9 U213 -
+SECTION 14: Transport information
+DOT (US)
+UN-no UN2056
+Proper Shipping Name TETRAHYDROFURAN
+Hazard Class 3
+Packing Group II
+IMDG
+UN-no UN2056
+Proper Shipping Name TETRAHYDROFURAN
+Hazard Class 3
+Packing Group II
+IATA
+Laballey.com Page 10 of 11
+UN-no UN2056
+Proper Shipping Name TETRAHYDROFURAN
+Hazard Class 3
+Packing Group II
+SECTION 15: Regulatory information
+US federal regulationsThis product is a "Hazardous Chemical" as defined by the OSHA 
+Hazard Communication Standard, 29 CFR 1910.1200.
+TSCA Section 12(b) Export Notification (40 CFR 707, Subpt. D)
+Not applicable.
+CERCLA Hazardous Substance List (40 CFR 302.4)
+Listed, Tetrahydrofuran (CAS #109-99-9), RQ: 1000 lb.
+SARA 304 Emergency release notification
+Not regulated.
+OSHA Specifically Regulated Substances (29 CFR 1910.1001-1053)
+Not regulated.
+Superfund Amendments and Reauthorization Act of 1986 (SARA)
+SARA 302 Extremely hazardous substance
+Not listed.
+SARA 311/312 Hazardous
+See Section 2 for more information.
+SARA 313 (TRI reporting)
+Not regulated.
+Other federal regulations
+Clean Air Act (CAA) Section 112 Hazardous Air Pollutants (HAPs) List
+Not regulated.
+Clean Air Act (CAA) Section 112(r) Accidental Release Prevention (40 CFR 68.130)
+Not regulated.
+Safe Drinking Water Act
+Not regulated.
+FEMA Priority Substances Respiratory Health and Safety in the Flavor 
+Manufacturing Workplace
+Not listed.
+US state regulations
+US. Massachusetts RTK - Substance List
+Listed, Tetrahydrofuran (CAS #109-99-9).
+Laballey.com Page 11 of 11
+US. New Jersey Worker and Community Right-to-Know Act
+Listed, Tetrahydrofuran (CAS #109-99-9).
+US. Pennsylvania Worker and Community Right-to-Know Law
+Listed, Tetrahydrofuran (CAS #109-99-9).
+California Proposition 65
+Listed, Tetrahydrofuran (CAS #109-99-9).
+SECTION 16: Other information
+Issue date: 05/20/2015
+Revision 1: 06/14/2023
+Revision 2: 11/12/2024
+SECTION 17: Disclaimer
+The information provided on this Safety Data Sheet is correct to the best of our knowledge, 
+information and belief at the date of its publication. The information given is designed only as 
+a guide for safe handling, use, processing, storage, transportation, disposal and release and 
+is not to be considered as a warranty or quality specification. The information relates only to 
+the specific material designated and may not be valid for such material used in combination 
+with any other material or in any process, unless specified in the text.

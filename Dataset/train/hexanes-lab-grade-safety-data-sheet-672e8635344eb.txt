@@ -1,0 +1,369 @@
+Laballey.com Page 1 of 11
+www.laballey.com
+512-668-9918
+Hexanes Lab Grade
+SAFETY DATA SHEET
+SECTION 1: Identification of the substance/mixture and of the company/undertaking
+1.1 Product identifiers
+Product name Hexane
+CAS number 110-54-3
+Synonyms Hexanes, Normal Hexane, Hexyl Hydride, n-Hexane, 3-Methyl 
+Pentane
+1.2 Relevant identified uses of the substance or mixture and uses advised against
+Identified uses Laboratory chemicals. Synthesis of substances.
+1.3 Details of the supplier of the safety data sheet
+Company Lab Alley, LLC
+12501 Pauls Valley Road 
+Austin, Texas 78737
+U.S.A.
+Telephone 512-668-9918
+Fax 512-886-4008
+1.4 Emergency telephone
+Emergency Phone # US & Canada: 1-800-535-5053 INFOTRAC
+International 1-352-323-3500 INFOTRAC
+SECTION 2: Hazards identification
+2.1 Classification of the substance or mixture
+GHS Classification in accordance with 29 CFR 1910 (OSHA HCS)
+Flammable Liquids Category 2
+Skin Irritation Category 2
+Reproductive Toxicity Category 2
+Specific Target Organ Toxicity (single exposure)Category 3
+Specific Target Organ Toxicity (repeated exposure)Category 2
+Aspiration Hazard Category 1
+
+Laballey.com Page 2 of 11
+Acute Aquatic Hazard Category 2
+Chronic Aquatic Hazard Category 2
+2.2 GHS Label elements, including precautionary statements
+Pictogram
+Signal Word Danger
+Hazard statementsHighly flammable liquid and vapor. 
+May be fatal if swallowed and enters airways. 
+Causes skin irritation. 
+May cause drowsiness or dizziness. 
+Suspected of damaging fertility or the unborn child. 
+May cause damage to organs (Nervous system) through prolonged or 
+repeated exposure if inhaled. 
+Toxic to aquatic life with long lasting effects.
+Precautionary 
+statements
+Prevention: Obtain special instructions before use. Do not handle until all 
+safety precautions have been read and understood. Keep away from heat/ 
+sparks/ open flames/ hot surfaces. No smoking. Keep container tightly closed. 
+Ground/bond container and receiving equipment. Use explosion-proof 
+electrical/ ventilating/ lighting/ equipment. Use only non-sparking tools. Take 
+precautionary measures against static discharge. Do not breathe mist or 
+vapors. Wash skin thoroughly after handling. Use only outdoors or in a well-
+ventilated area. Avoid release to the environment. Wear protective gloves/ 
+protective clothing/ eye protection/ face protection.
+Response: IF exposed or concerned, get medical advice/ attention.
+IF SWALLOWED: Immediately call a POISON CENTER/ doctor. Do NOT 
+induce vomiting.
+IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse 
+skin with water/ shower. If skin irritation occurs: Get medical advice/ attention. 
+Take off contaminated clothing and wash before reuse. 
+IF INHALED: Remove person to fresh air and keep comfortable for breathing. 
+Call a POISON CENTER/ doctor if you feel unwell.
+Fire: In case of fire, use dry sand, dry chemical, or alcohol-resistant foam to 
+extinguish. 
+Spills: Collect spillage.
+2.3 Hazards not otherwise classified (HNOC) or not covered by GHS
+None identified.
+
+Laballey.com Page 3 of 11
+SECTION 3: Composition/information on ingredients
+3.1 Components
+Chemical name Common name and synonymsCAS numberConcentration
+Naphtha (petroleum), 
+hydrotreated light - 64742-49-0 30-40%
+Cyclohexane - 110-82-7 5-10%
+n-hexane - 110-54-3 40-50%
+SECTION 4: First aid measures
+4.1 Description of first-aid measures
+General advice
+If inhaled Remove source of contamination or move to fresh air. If affected person is 
+not breathing, apply artificial respiration. If breathing is difficult, give oxygen. 
+Get medical attention.
+In case of skin contact                     :If irritation is experienced, flush with water. If irritation persists, get medical
+attention.
+In case of eye contact                      :Rinse with plenty of water for at least 15 minutes, seek medical attention.
+If swallowed Do NOT induce vomiting. If material is swallowed, get medical attention.
+4.2 Most important symptoms and effects, both acute and delayed
+The most important known symptoms and effects are described in the labeling (see Section 
+2.2) and/or in Section 11.
+4.3 Indication of any immediate medical attention and special treatment needed
+No information available.
+SECTION 5: Firefighting measures
+5.1 Extinguishing media
+Suitable extinguishing media Small Fire: Use dry chemical, CO2, water spray, or 
+regular foam. 
+Large Fire: Use water spray, foam, or regular 
+foam.
+Unsuitable extinguishing mediaDO NOT use straight streams.
+Laballey.com Page 4 of 11
+5.2 Specific hazards arising from the substance or mixture
+Carbon oxides. Combustible. Pay attention to flashback. Vapors are heavier than air and may 
+spread along floors. Development of hazardous combustion gases or vapours possible in the 
+event of fire. Forms explosive mixtures with air at ambient temperatures.
+5.3 Special protective equipment and precautions for firefighters
+Wear protective clothing and equipment, including self-contained breathing apparatus, 
+protective clothing, including eye protection and boots. Consider containers in the area. Cool 
+containers with flooding amounts of water until well after the fire is out.
+5.4 Further information
+Flash Point -7 °F (-22 °C) Closed Cup.
+Autoignition Temperature 225°C
+Explosion limits
+Upper 7.50%
+Lower 1.10%
+Sensitivity to Mechanical ImpactNo information available.
+Sensitivity to Static DischargeNo information available.
+NFPA
+Health FlammabilityInstabilityPhysical hazards
+1 3 0 N/A
+SECTION 6: Accidental release measures
+6.1 Personal precautions, protective equipment and emergency procedures
+For large spills wear gloves, Tyvek suits, safety glasses, and appropriate NIOSH approved 
+respiratory protection. Keep unnecessary personnel away. Eliminate all sources of ignition or 
+flammables.
+6.2 Environmental precautions
+Prevent discharge to open bodies of water, municipal sewers, and watercourses. Any release 
+into the environment may be subject to federal/national or local reporting requirements.
+6.3 Methods and materials for containment and cleaning up
+Ventilate area of leak or spill. Absorb spill with non-combustible material, then place in a 
+suitable container for disposal. Only use spark-proof tools to sweep or scrape up. Clean 
+surfaces thoroughly with water to remove residual contaminations. Dispose of all waste and 
+clean up materials in accordance with regulations.
+6.4 Reference to other sections
+See Section 2 for full list of hazard and precaution statements. For disposal, see Section 13.
+Laballey.com Page 5 of 11
+SECTION 7: Handling and storage
+7.1 Precautions for safe handling
+Precautions on safe handling
+Keep away from heat, sparks and flames. Use only with adequate ventilation. Avoid fire or 
+explosion, dissipate static electricity during transfer by grounding and bonding containers and 
+equipment before transferring material. Use explosion-proof electrical (ventilating, lighting and 
+material handling) equipment. For precautions, see Section 2.2.
+Hygiene measures
+Immediately change contaminated clothing. Apply preventive skin protection. Wash hands 
+and face after working with substance. 
+7.2 Conditions for safe storage, including any incompatibilities
+Storage conditions
+Keep container in a cool, well-ventilated area. Keep container tightly closed and sealed until 
+ready for use. Ground all equipment container this material. Avoid all possible sources of 
+ignition (spark or flame).
+Incompatibilities
+SECTION 8: Exposure controls/personal protection
+8.1 Occupational exposure limits
+US. OSHA Table Z-1 Limits for Air Contaminants (29 CFR 1910.1000) 
+Component Type Value
+Hexanes TWA 500 ppm
+US. ACGIH Threshold Limit Values
+Component Type Value
+Hexanes TWA 50 ppm
+Biological occupational exposure limits
+No information available.
+8.2 Exposure controls
+Appropriate engineering controls
+Provide exhaust ventilation or other engineering controls to keep the airborne concentrations 
+of vapors below their respective threshold limit value. Ensure that eyewash stations and 
+safety showers are proximal to the workstation.
+Personal protective equipment
+Laballey.com Page 6 of 11
+Eye/face protection
+Face shield and safety glasses or goggles. Facilities storing or utilizing this 
+material should be equipped with eyewash and safety shower facilities.
+Skin protection
+Wear gloves that are appropriate for the task.
+Body Protection
+Personal protective equipment for the body should be selected based on the task 
+being performed and the risks and the risks involved and should be approved by a 
+specialist before handling this product. When there is a risk of ignition from static 
+electricity, wear anti-static protective clothing. For the greatest protection from 
+static discharges, clothing should include anti-static overalls, boots and gloves.
+Respiratory protection
+Provide exhaust ventilation or other engineering controls to keep the airborne 
+concentrations of vapors below their respective threshold limit value. If exposure 
+levels are excessive, use an approved respirator.
+Control of environmental exposure
+Prevent discharge to open bodies of water, municipal sewers, and watercourses. 
+Any release into the environment may be subject to federal/national or local 
+reporting requirements.
+SECTION 9: Physical and chemical properties
+9.1 Information on basic physical and chemical properties
+Physical State Liquid
+Appearance Colorless
+Odor Hydrocarbon (gas-like odor)
+Odor Threshold Not available
+pH Not available
+Melting Point/Range -139°F
+Boiling Point/Range 62.8 to 73.9 °C (145 to 165°F)
+Evaporation Rate 5.2
+Flammability (solid) Not applicable
+Flammability or explosive limit
+Upper 7.50%
+Lower 1.10%
+Vapor Pressure 124 mmHg
+Vapor Density 3.0 - (Air = 1.0)
+Density Not available
+Solubility Negligible in water
+Laballey.com Page 7 of 11
+Partition coefficient; 
+n-octanol/water
+3.9
+Autoignition Temp 225°C
+Decomposition Temp Not available
+Viscosity Not available
+Molecular Formula C6H14
+Molecular Weight 86.2 g/mol
+VOC Content(%) Not available
+Oxidizing properties None
+9.2 Other safety information
+No information available.
+SECTION 10: Stability and reactivity
+10.1Reactivity
+Vapors may form explosive mixture with air.
+10.2Chemical stability
+This material is considered stable at ambient temperatures.
+10.3Possibility of hazardous reactions
+This product will not undergo polymerization.
+10.4Conditions to avoid
+Flames, sparks, electrostatic discharge, heat and other ignition sources.
+10.5Incompatible materials
+This product reacts with strong acid, strong bases, and oxidizing agents.
+10.6Hazardous decomposition products
+Upon decomposition, this product evolves Carbon monoxide, Carbon dioxide, and/or low 
+weight hydrocarbons.
+SECTION 11: Toxicological information
+11.1Information on toxicological effects
+Product Information, Component Information
+Acute toxicity
+Component LD50 Oral LD50 Dermal LC50 Inhalation
+n-Hexane 15840 mg/kg (Rat) -  4800 ppm 4 hours 
+(Rat)
+Naphtha (petroleum)>5000 mg/kg (Rat)>2000 mg/kg (Rat) -
+Cyclohexane 6240 mg/kg (Rat)>180000 mg/kg 
+(Rabbit) -
+Laballey.com Page 8 of 11
+Skin corrosion/irritation
+Defatting, dermatitis, drying redness.
+Serious eye damage/eye irritation
+Redness, blurred vision, tearing.
+Respiratory or skin sensitization
+Local lymph node assay (LLNA) - Mouse Result: negative. 
+Inhalation - Lung irritation, chest pain, pulmonary edema, giddiness, irritation, dizziness, 
+drowsiness, headache, unconsciousness.
+Germ cell mutagenicity
+No data available.
+Carcinogenicity
+Component CAS IARC NTP ACGIH OSHA Mexico
+n-Hexane 110-54-3Not listedNot listed Not listed Not listedNot listed
+Naphtha (petroleum)64742-49-0Not listedNot listed Not listed Not listedNot listed
+Cyclohexane 110-82-7Not listedNot listed Not listed Not listedNot listed
+Specific target organ toxicity - single exposure
+May cause drowsiness or dizziness. Central nervous system.
+Specific target organ toxicity - repeated exposure
+Inhalation: May cause damage to organs through prolonged or repeated exposure. Nervous 
+system.
+Reproductive toxicity
+Overexposure may cause reproductive disorder(s) based on tests with laboratory animals. 
+Suspected human reproductive toxicant. Suspected of damaging fertility.
+Chronic effects
+None known or reported by the manufacturer.
+11.2Additional Information
+May be fatal if swallowed and enters airways. 
+Aspiration hazard: Aspiration may cause pulmonary edema and pneumonitis.
+SECTION 12: Ecological information
+12.1Toxicity
+Product Species Test Results
+n-Hexane LC50 Pimephales promelas 2.5 mg/L 96h
+Cyclohexane LC50 Pimephales promelas 4.53 mg/L 48h
+Laballey.com Page 9 of 11
+12.2Persistence and degradability
+Readily biodegradable.
+12.3Bio accumulative potential
+No data available.
+12.4Mobility in soil
+No data available.
+12.5Results of PBT and vPvB assessment
+PBT/vPvB assessment not available as chemical safety assessment not required/not 
+conducted.
+12.6Endocrine disrupting properties
+No data available.
+12.7Other adverse effects
+No data available.
+SECTION 13: Disposal considerations
+13.1Waste Disposal Methods
+Chemical waste generators must determine whether a discarded chemical is classified as a 
+hazardous waste. Chemical waste generators must also consult local, regional, and national 
+hazardous waste regulations to ensure complete and accurate classification.
+SECTION 14: Transport information
+DOT (US)
+UN-no UN1208
+Proper Shipping Name Hexanes
+Hazard Class 3
+Packing Group II
+IMDG
+UN-no UN1208
+Proper Shipping Name Hexanes
+Hazard Class 3
+Packing Group II
+IATA
+UN-no UN1208
+Proper Shipping Name Hexanes
+Hazard Class 3
+Packing Group II
+Laballey.com Page 10 of 11
+SECTION 15: Regulatory information
+US federal regulationsThis product is a "Hazardous Chemical" as defined by the OSHA 
+Hazard Communication Standard, 29 CFR 1910.1200.
+TSCA Section 12(b) Export Notification (40 CFR 707, Subpt. D)
+Not applicable.
+CERCLA Hazardous Substance List (40 CFR 302.4)
+Listed, n-Hexane (CAS #110-54-3), RQ: 5000 lb.
+Listed, Cyclohexane (CAS #110-82-7), RQ: 1000 lb.
+SARA 304 Emergency release notification
+Not regulated.
+OSHA Specifically Regulated Substances (29 CFR 1910.1001-1053)
+Not regulated.
+Superfund Amendments and Reauthorization Act of 1986 (SARA)
+SARA 302 Extremely hazardous substance
+Not listed.
+SARA 311/312 Hazardous
+See Section 2 for more information.
+SARA 313 (TRI reporting)
+Listed, n-Hexane (CAS #110-54-3).
+Listed, Cyclohexane (CAS #110-82-7).
+Other federal regulations
+Clean Air Act (CAA) Section 112 Hazardous Air Pollutants (HAPs) List
+Listed, n-Hexane (CAS #110-54-3).
+Clean Air Act (CAA) Section 112(r) Accidental Release Prevention (40 CFR 68.130)
+Not regulated.
+Clean Water Act (CWA)
+Listed, Cyclohexane (CAS #110-82-7), RQ: 1000 lb.
+FEMA Priority Substances Respiratory Health and Safety in the Flavor 
+Manufacturing Workplace
+Not listed.
+US state regulations
+US. Massachusetts RTK - Substance List
+Listed, n-Hexane (CAS #110-54-3).
+Listed, Cyclohexane (CAS #110-82-7).
+US. New Jersey Worker and Community Right-to-Know Act
+Laballey.com Page 11 of 11
+Listed, n-Hexane (CAS #110-54-3).
+Listed, Cyclohexane (CAS #110-82-7).
+US. Pennsylvania Worker and Community Right-to-Know Law
+Listed, n-Hexane (CAS #110-54-3).
+Listed, Cyclohexane (CAS #110-82-7).
+California Proposition 65
+Listed, n-Hexane (CAS #110-54-3).
+SECTION 16: Other information
+Issue date: 05/03/2020
+Revision 1: 08/03/2023
+Revision 2: 11/08/2024
+SECTION 17: Disclaimer
+The information provided on this Safety Data Sheet is correct to the best of our knowledge, 
+information and belief at the date of its publication. The information given is designed only as 
+a guide for safe handling, use, processing, storage, transportation, disposal and release and 
+is not to be considered as a warranty or quality specification. The information relates only to 
+the specific material designated and may not be valid for such material used in combination 
+with any other material or in any process, unless specified in the text.

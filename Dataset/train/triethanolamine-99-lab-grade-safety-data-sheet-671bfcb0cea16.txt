@@ -1,0 +1,317 @@
+Laballey.com Page 1 of 10
+www.laballey.com
+512-668-9918
+Triethanolamine 99% Lab Grade
+SAFETY DATA SHEET
+SECTION 1: Identification of the substance/mixture and of the company/undertaking
+1.1 Product identifiers
+Product name Triethanolamine 99%
+CAS number 102-71-6
+Synonyms Trolamine, Tri-beta-hydroxy Ethanolamine
+1.2 Relevant identified uses of the substance or mixture and uses advised against
+Identified uses Laboratory chemicals.
+1.3 Details of the supplier of the safety data sheet
+Company Lab Alley, LLC
+12501 Pauls Valley Road 
+Austin, Texas 78737
+U.S.A.
+Telephone 512-668-9918
+Fax 512-886-4008
+1.4 Emergency telephone
+Emergency Phone # US & Canada: 1-800-535-5053 INFOTRAC
+International 1-352-323-3500 INFOTRAC
+SECTION 2: Hazards identification
+2.1 Classification of the substance or mixture
+GHS Classification in accordance with 29 CFR 1910 (OSHA HCS)
+Carcinogenicity (Category 2)
+2.2 GHS Label elements, including precautionary statements
+Pictogram
+
+Laballey.com Page 2 of 10
+Signal Word Warning
+Hazard statementsSuspected of causing cancer
+Precautionary 
+statements
+Do not handle until all safety precautions have been read and understood
+Use personal protective equipment as required
+Obtain special instructions before use
+IF exposed or concerned: Get medical attention/advice
+Store locked up
+Dispose of contents/container to an approved waste disposal plant
+2.3 Hazards not otherwise classified (HNOC) or not covered by GHS
+None identified.
+SECTION 3: Composition/information on ingredients
+3.1 Components
+Chemical name Common name and synonymsCAS numberConcentration
+Triethanolamine TEA,Trolamine, 
+Tri-beta-hydroxy Ethanolamine 102-71-6 > 99.0%
+Diethanolamine  DEA, Diethylolamine, Bis(2-
+hydroxyethyl)amine 102-71-6 < 0.05%
+SECTION 4: First aid measures
+4.1 Description of first-aid measures
+General advice
+If inhaled Remove to fresh air. Get medical attention immediately if symptoms occur.
+In case of skin contact                     :Wash off immediately with plenty of water for at least 15 minutes. Get 
+medical attention immediately if symptoms occur.
+In case of eye contact                      :Rinse immediately with plenty of water, also under the eyelids, for at least 15 
+minutes. Get medical attention.
+If swallowed Clean mouth with water and drink afterwards plenty of water. Get medical 
+attention if symptoms occur.
+4.2 Most important symptoms and effects, both acute and delayed
+None reasonably foreseeable.
+4.3 Indication of any immediate medical attention and special treatment needed
+Note to Physician: Treat symptomatically.
+Laballey.com Page 3 of 10
+SECTION 5: Firefighting measures
+5.1 Extinguishing media
+Suitable extinguishing media Water spray, carbon dioxide (CO2), dry chemical, 
+alcohol-resistant foam.
+Unsuitable extinguishing mediaNo information available.
+5.2 Specific hazards arising from the substance or mixture
+Thermal decomposition can lead to release of irritating gases and vapors. Keep product and 
+empty container away from heat and sources of ignition.
+5.3 Special protective equipment and precautions for firefighters
+As in any fire, wear self-contained breathing apparatus pressure-demand, MSHA/NIOSH 
+(approved or equivalent) and full protective gear.
+5.4 Further information
+Flash Point 190  °C  /  374  °F
+Autoignition Temperature325  °C  /  617  °F
+Explosion limits
+Upper 8.50%
+Lower 1.30%
+Sensitivity to Mechanical ImpactNo information available.
+Sensitivity to Static DischargeNo information available.
+NFPA
+Health FlammabilityInstabilityPhysical hazards
+2 1 1 N/A
+SECTION 6: Accidental release measures
+6.1 Personal precautions, protective equipment and emergency procedures
+Use personal protective equipment as required. Ensure adequate ventilation.
+6.2 Environmental precautions
+Should not be released into the environment.
+6.3 Methods and materials for containment and cleaning up
+Sweep up and shovel into suitable containers for disposal.
+6.4 Reference to other sections
+Laballey.com Page 4 of 10
+See Section 2 for full list of hazard and precaution statements. 
+SECTION 7: Handling and storage
+7.1 Precautions for safe handling
+Precautions on safe handling
+Wear personal protective equipment/face protection. Ensure adequate ventilation. Avoid 
+contact with skin, eyes or clothing. Avoid ingestion and inhalation.
+Hygiene measures
+Handle in accordance with good industrial hygiene and safety practice.
+7.2 Conditions for safe storage, including any incompatibilities
+Storage conditions
+Keep containers tightly closed in a dry, cool and well-ventilated place. Keep under nitrogen. 
+Store under an inert atmosphere. Protect from moisture. 
+Incompatibilities
+Strong oxidizing agents. Metals.
+SECTION 8: Exposure controls/personal protection
+8.1 Occupational exposure limits
+US. OSHA Table Z-1 Limits for Air Contaminants (29 CFR 1910.1000) 
+Component Type Value
+Triethanolamine N/A N/A
+Diethanolamine TWA (vacated) 3 ppm 15 mg/m3
+US. ACGIH Threshold Limit Values
+Component Type Value
+Triethanolamine TWA 5 mg/m3
+Diethanolamine TWA 1 mg/m3
+US. NIOSH: Pocket Guide to Chemical Hazards
+Component Type Value
+Triethanolamine N/A N/A
+Diethanolamine TWA 3 ppm 15 mg/m3
+Biological occupational exposure limits
+No information available.
+8.2 Exposure controls
+Appropriate engineering controls
+Laballey.com Page 5 of 10
+Ensure adequate ventilation, especially in confined areas. Ensure that eyewash stations and 
+safety showers are close to the workstation location.
+Personal protective equipment
+Eye/face protection
+Wear appropriate protective eyeglasses or chemical safety goggles as described 
+by OSHA's eye and face protection regulations in 29 CFR 1910.133 or European 
+Standard EN166.
+Skin protection
+Wear appropriate protective gloves.
+Body Protection
+Wear appropriate clothing to prevent skin exposure.
+Respiratory protection
+Follow the OSHA respirator regulations found in 29 CFR 1910.134 or European 
+Standard EN 149. Use a NIOSH/MSHA or European Standard EN 149 approved 
+respirator if exposure limits are exceeded or if irritation or other symptoms are 
+experienced.
+Control of environmental exposure
+Do not let product enter drains.
+SECTION 9: Physical and chemical properties
+9.1 Information on basic physical and chemical properties
+Physical State Liquid
+Appearance Colorless to yellow
+Odor Ammonia-like
+Odor Threshold No information available.
+pH No information available.
+Melting Point/Range 21  °C  /  69.8  °F
+Boiling Point/Range 336.1 °C  / 637.0 °F at 1,013.25 hPa
+Evaporation Rate 0.01
+Flammability (solid) Not applicable.
+Flammability or explosive limit
+Upper 8.50%
+Lower 1.30%
+Vapor Pressure < 0.0002 mmHg  at 21 °C  / 70 °F
+Vapor Density 5
+Density 1.126 at 20 °C / 68 °F
+Solubility Soluble in water.
+Partition coefficient; n-octanol/waterlog Pow: -2.3 
+Autoignition Temp 325  °C  /  617  °F
+Laballey.com Page 6 of 10
+Decomposition Temp No information available.
+Viscosity 934 mPa.s at 20 °C  / 68 °F (dynamic)
+Molecular Formula C6H15NO3
+Molecular Weight 149.19
+VOC Content(%) No information available.
+Oxidizing properties None.
+9.2 Other safety information
+No information available.
+SECTION 10: Stability and reactivity
+10.1Reactivity
+None known, based on information available.
+10.2Chemical stability
+Hygroscopic. Air sensitive.
+10.3Possibility of hazardous reactions
+None under normal processing.
+10.4Conditions to avoid
+Incompatible products. Excess heat. Exposure to air. Exposure to light. Exposure to moist air 
+or water.
+10.5Incompatible materials
+Strong oxidizing agents, Acids, Metals.
+10.6Hazardous decomposition products
+Nitrogen oxides (NOx), Carbon monoxide (CO), Carbon dioxide (CO2), Hydrogen cyanide 
+(hydrocyanic acid), Formaldehyde.
+SECTION 11: Toxicological information
+11.1Information on toxicological effects
+Product Information, Component Information
+Acute toxicity
+Component LD50 Oral LD50 Dermal LC50 Inhalation
+Triethanolamine 4190 mg/kg (rat) > 16 mL/kg (rat) Not listed
+Diethanolamine 780 mg/kg (rat) 11.9 mL/kg (rabbit) Not listed
+Skin corrosion/irritation
+No information available.
+Serious eye damage/eye irritation
+Irritating to eyes.
+Laballey.com Page 7 of 10
+Respiratory or skin sensitization
+No information available.
+Germ cell mutagenicity
+No information available.
+Carcinogenicity
+Component CAS IARC NTP ACGIH OSHA Mexico
+Triethanolamine102-71-6Not listedNot listed Not listed Not listedNot listed
+Diethanolamine111-42-2Group 2BNot listed A3 Listed A3
+Specific target organ toxicity - single exposure
+None known.
+Specific target organ toxicity - repeated exposure
+None known.
+Reproductive toxicity
+No information available.
+Chronic effects
+No information available.
+11.2Additional Information
+The toxicological properties have not been fully investigated.
+SECTION 12: Ecological information
+12.1Toxicity
+Product Species Test Results
+Triethanolamine
+EC50 Desmodesmus subspicatus169 mg/L 96 h
+EC50 Desmodesmus subspicatus216 mg/L 72 h
+LC50 Pimephales promelas10600 - 13000 mg/L     96 h
+flow through
+LC50 Pimephales promelas> 1000 mg/L
+static 96 h
+LC50 Lepomis macrochirus450 - 1000 mg/L
+static 96 h
+EC50 Microtox > 10000 mg/L 30 min
+Diethanolamine
+EC50 Pseudokirchneriella 
+subcapitata 2.1 - 2.3 mg/L 96 h
+EC50 Desmodesmus subspicatus7.8 mg/L 72 h
+LC50 Pimephales promelas140 mg/L 96 h
+EC50 Microtox 73 mg/L 5 min
+EC50 Microtox > 16 mg/L 16 h
+EC50 Daphnia magna 55 mg/L 48 h
+Laballey.com Page 8 of 10
+12.2Persistence and degradability
+Persistence is unlikely.
+12.3Bio accumulative potential
+No information availale.
+12.4Mobility in soil
+Will likely be mobile in the environment due to its water solubility.
+12.5Results of PBT and vPvB assessment
+No information availale.
+12.6Endocrine disrupting properties
+No information availale.
+12.7Other adverse effects
+No information availale.
+SECTION 13: Disposal considerations
+13.1Waste Disposal Methods
+Chemical waste generators must determine whether a discarded chemical is classified as a 
+hazardous waste. Chemical waste generators must also consult local, regional, and national 
+hazardous waste regulations to ensure complete and accurate classification.
+SECTION 14: Transport information
+DOT (US)
+Not regulated.
+IMDG
+Not regulated.
+IATA
+Not regulated.
+SECTION 15: Regulatory information
+US federal regulationsThis product is a "Hazardous Chemical" as defined by the OSHA 
+Hazard Communication Standard, 29 CFR 1910.1200.
+TSCA Section 12(b) Export Notification (40 CFR 707, Subpt. D)
+Not listed.
+CERCLA Hazardous Substance List (40 CFR 302.4)
+Laballey.com Page 9 of 10
+Listed: Diethanolamine (111-42-2)
+RQ: 100 lb
+SARA 304 Emergency release notification
+Not regulated.
+OSHA Specifically Regulated Substances (29 CFR 1910.1001-1053)
+Not listed.
+Superfund Amendments and Reauthorization Act of 1986 (SARA)
+SARA 302 Extremely hazardous substance
+Not listed.
+SARA 311/312 Hazardous
+See section 2 for more information.
+SARA 313 (TRI reporting)
+Regulated: Diethanolamine (111-42-2)
+Weight: <= 0.5%; Threshold values: 1.0%.
+Other federal regulations
+Clean Air Act (CAA) Section 112 Hazardous Air Pollutants (HAPs) List
+Regulated: Diethanolamine (111-42-2)
+Clean Air Act (CAA) Section 112(r) Accidental Release Prevention (40 CFR 68.130)
+Not regulated.
+Safe Drinking Water Act
+Not regulated.
+FEMA Priority Substances Respiratory Health and Safety in the Flavor 
+Manufacturing Workplace
+Not listed.
+US state regulations
+US. Massachusetts RTK - Substance List
+Listed: Triethanolamine (102-71-6) and Diethanolamine (111-42-2)
+US. New Jersey Worker and Community Right-to-Know Act
+Listed: Triethanolamine (102-71-6) and Diethanolamine (111-42-2)
+US. Pennsylvania Worker and Community Right-to-Know Law
+Listed: Triethanolamine (102-71-6) and Diethanolamine (111-42-2)
+California Proposition 65
+Listed: Diethanolamine (111-42-2)
+SECTION 16: Other information
+Laballey.com Page 10 of 10
+Issue date: 12/03/2019
+Revision 1: 10/25/2024
+SECTION 17: Disclaimer
+The information provided on this Safety Data Sheet is correct to the best of our knowledge, 
+information and belief at the date of its publication. The information given is designed only as 
+a guide for safe handling, use, processing, storage, transportation, disposal and release and 
+is not to be considered as a warranty or quality specification. The information relates only to 
+the specific material designated and may not be valid for such material used in combination 
+with any other material or in any process, unless specified in the text.

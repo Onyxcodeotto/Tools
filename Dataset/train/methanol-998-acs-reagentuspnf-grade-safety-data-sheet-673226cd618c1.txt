@@ -1,0 +1,366 @@
+Laballey.com Page 1 of 11
+www.laballey.com
+512-668-9918
+Methanol ≥99.8% ACS Reagent/USP/NF Grade
+SAFETY DATA SHEET
+SECTION 1: Identification of the substance/mixture and of the company/undertaking
+1.1 Product identifiers
+Product name Methanol
+CAS number 67-56-1
+Synonyms Methyl alcohol; Wood alcohol; Carbinol; Wood spirit; Wood naphtha;
+Methylol; Methyl hydroxide; Pyroxylic spirit
+1.2 Relevant identified uses of the substance or mixture and uses advised against
+Identified uses Laboratory chemicals.
+1.3 Details of the supplier of the safety data sheet
+Company Lab Alley, LLC
+12501 Pauls Valley Road 
+Austin, Texas 78737
+U.S.A.
+Telephone 512-668-9918
+Fax 512-886-4008
+1.4 Emergency telephone
+Emergency Phone # US & Canada: 1-800-535-5053 INFOTRAC
+International 1-352-323-3500 INFOTRAC
+SECTION 2: Hazards identification
+2.1 Classification of the substance or mixture
+GHS Classification in accordance with 29 CFR 1910 (OSHA HCS)
+Flammable Liquids Category 2
+Acute Oral Toxicity Category 3
+Acute Dermal Toxicity Category 3
+Acute Inhalation Toxicity - Vapors Category 3
+Specific Target Organ Toxicity - single exposureCategory 1
+
+Laballey.com Page 2 of 11
+        Target Organ(s) - Optic nerve, Central nervous system (CNS)
+Specific Target Organ Toxicity - repeated exposureCategory 1
+        Target Organ(s) - Kidney, Liver, Spleen, Blood
+2.2 GHS Label elements, including precautionary statements
+Pictogram
+Signal Word Danger
+Hazard statementsHighly flammable liquid and vapor.
+Causes damage to organs.
+Causes damage to organs through prolonged or repeated exposure.
+Toxic if swallowed, in contact with skin or if inhaled.
+Precautionary 
+statements
+Prevention: Wash face, hands, and any exposed skin thoroughly after 
+handling. Do not eat, drink, or smoke when using this product. Wear 
+protective gloves/protective clothing/eye protection/face protection. Use only 
+outdoors or in a well-ventilated area. Do not breathe 
+dust/fume/gas/mist/vapors/spray. Keep away from heat/sparks/open 
+flames/hot surfaces. No smoking. Keep container tightly closed. Ground/bond 
+container and receiving equipment. Use explosion-proof 
+electrical/ventilating/lighting equipment. Use only non-sparking tools. Take 
+precautionary measures against static discharge. Keep cool.
+Response: IF exposed: Call a POISON CENTER or doctor/physician.
+IF INHALED: Remove victim to fresh air and keep at rest in a position 
+comfortable for breathing. Call a POISON CENTER or doctor/physician.
+IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse 
+skin with water/shower. Call a POISON CENTER or doctor/physician if you 
+feel unwell. Wash contaminated clothing before reuse.
+IF SWALLOWED: Immediately call a POISON CENTER or doctor/physician. 
+Rinse mouth.
+Fire: In case of fire, use CO2, dry chemical, or foam for extinction.
+Storage: Store locked up. Store in a well-ventilated place. Keep container 
+tightly closed.
+Disposal: Dispose of contents/container to an approved waste disposal plant.
+2.3 Hazards not otherwise classified (HNOC) or not covered by GHS
+
+Laballey.com Page 3 of 11
+WARNING: Reproductive Harm.
+SECTION 3: Composition/information on ingredients
+3.1 Components
+Chemical name Common name and synonymsCAS numberConcentration
+Methanol Methyl alcohol; Methyl hydroxide67-56-1 <= 100%
+SECTION 4: First aid measures
+4.1 Description of first-aid measures
+General advice
+If inhaled Remove to fresh air. If breathing is difficult, give oxygen. Do not use mouth-
+to-mouth method if victim ingested or inhaled the substance; give artificial 
+respiration with the aid of a pocket mask equipped with a one-way valve or 
+other proper respiratory medical device. Immediate medical attention is 
+required.
+In case of skin contact                     :Wash off immediately with plenty of water for at least 15 minutes. Immediate 
+medical attention is required.
+In case of eye contact                      :Rinse immediately with plenty of water, also under the eyelids, for at least 15 
+minutes. Immediate medical attention is required.
+If swallowed Do NOT induce vomiting. Call a physician or poison control center 
+immediately.
+4.2 Most important symptoms and effects, both acute and delayed
+Difficulty in breathing. May cause blindness. Inhalation of high vapor concentrations may 
+cause symptoms like headache, dizziness, tiredness, nausea, and vomiting.
+4.3 Indication of any immediate medical attention and special treatment needed
+Immediate medical attention is required. Show this safety data sheet to the doctor in 
+attendance. Treat symptomatically.
+SECTION 5: Firefighting measures
+5.1 Extinguishing media
+Suitable extinguishing media Water fog. Alcohol-resistant foam. Dry chemical
+powder. Carbon dioxide (CO2). 
+Laballey.com Page 4 of 11
+Unsuitable extinguishing mediaDo not use water jet as an extinguisher, as this will 
+spread the fire. 
+5.2 Specific hazards arising from the substance or mixture
+Vapors may form explosive mixtures with air. Vapors may travel considerable distance to a 
+source of ignition and flash back. During fire, gases hazardous to health may be formed. 
+Combustion products may include: Carbon oxides.
+5.3 Special protective equipment and precautions for firefighters
+Self-contained breathing apparatus and full protective clothing must be worn in case of fire. In 
+case of fire and/or explosion do not breathe fumes. Move containers from fire area if you can 
+do so without risk. Use water spray to keep fire-exposed containers cool. 
+5.4 Further information
+Flash Point 53.0 °F (11.7 °C)
+Autoignition Temperature 867.2 °F (464 °C)
+Explosion limits
+Upper 36.5% v/v
+Lower 7.3% v/v
+Sensitivity to Mechanical ImpactNo information available.
+Sensitivity to Static DischargeNo information available.
+NFPA
+Health FlammabilityInstabilityPhysical hazards
+1 3 0 N/A
+SECTION 6: Accidental release measures
+6.1 Personal precautions, protective equipment and emergency procedures
+Evacuate personnel to safe areas. Keep people away from and upwind of spill/leak. Use 
+personal protective equipment as required. Ensure adequate ventilation. Remove all sources 
+of ignition. Take precautionary measures against static discharges.
+6.2 Environmental precautions
+Should not be released into the environment.
+6.3 Methods and materials for containment and cleaning up
+Soak up with inert absorbent material. Keep in suitable, closed containers for disposal. 
+Remove all sources of ignition. Use spark-proof tools and explosion-proof equipment.
+6.4 Reference to other sections
+See Section 2 for full list of hazard and precaution statements. See Section 12 for additional 
+Ecological Information.
+Laballey.com Page 5 of 11
+SECTION 7: Handling and storage
+7.1 Precautions for safe handling
+Precautions on safe handling
+Wear personal protective equipment/face protection. Do not breathe mist/vapors/spray. Donot 
+get in eyes, on skin, or on clothing. Use only under a chemical fume hood. Do not ingest. If 
+swallowed then seek immediate medical assistance. Keep away from open flames, hot 
+surfaces, and sources of ignition. Use only non-sparking tools. To avoid ignition of vapors by 
+static electricity discharge, all metal parts of the equipment must be grounded. Take 
+precautionary measures against static discharges.
+Hygiene measures
+When using do not eat, drink, or smoke. Provide regular cleaning of equipment, work area, 
+and clothing.
+7.2 Conditions for safe storage, including any incompatibilities
+Storage conditions
+Keep container tightly closed in a dry and well-ventilated place. Keep away from open flames, 
+hot surfaces, and sources of ignition. Flammables area.
+Incompatibilities
+Strong oxidizing agents. Strong acids. Acid anhydrides. Acid chlorides. Strong bases. Metals. 
+Peroxides.
+SECTION 8: Exposure controls/personal protection
+8.1 Occupational exposure limits
+US. OSHA Table Z-1 Limits for Air Contaminants (29 CFR 1910.1000) 
+Component Type Value
+Methyl alcohol (Vacated) TWA 200 ppm 260 mg/m3
+(Vacated) STEL 250 ppm 325 mg/m3
+US. ACGIH Threshold Limit Values
+Component Type Value
+Methyl alcohol TWA 200 ppm
+STEL 250 ppm
+US. NIOSH: Pocket Guide to Chemical Hazards
+Component Type Value
+Methyl alcohol
+IDLH 6000 ppm
+TWA 200 ppm 260 mg/m3
+STEL 250 ppm 325 mg/m3
+Biological occupational exposure limits
+Laballey.com Page 6 of 11
+No information available.
+8.2 Exposure controls
+Appropriate engineering controls
+Use only under a chemical fume hood. Use explosion-proof electrical/ventilating/lighting 
+equipment. Ensure that eyewash stations and safety showers are close to the workstation 
+location. 
+Personal protective equipment
+Eye/face protection
+Wear appropriate protective eyeglasses or chemical safety goggles as described 
+by OSHA's eye and face protection regulations in 29 CFR 1910.133 or European 
+Standard EN166.
+Skin protection
+Wear appropriate protective gloves and clothing to prevent skin exposure.
+Body Protection
+Wear appropriate protective gloves and clothing to prevent skin exposure.
+Respiratory protection
+Follow the OSHA respirator regulations found in 29 CFR 1910.134 or European 
+Standard EN 149. Use a NIOSH/MSHA or European Standard EN 149 approved 
+respirator if exposure limits are exceeded or if irritation or other symptoms are 
+experienced.
+Control of environmental exposure
+Prevent product from entering drains.
+SECTION 9: Physical and chemical properties
+9.1 Information on basic physical and chemical properties
+Physical State Liquid
+Appearance Colorless
+Odor Pungent
+Odor Threshold No information available
+pH No information available
+Melting Point/Range -144 °F (-97.78 °C)
+Boiling Point/Range 148.46 °F (64.7 °C) 1013.1 hPa
+Evaporation Rate No information available
+Flammability (solid) Not applicable
+Flammability or explosive limit
+Upper 36.5% v/v
+Lower 7.3% v/v
+Laballey.com Page 7 of 11
+Vapor Pressure 16.93 kPa at 25 °C (77 °F (25 °C))
+Vapor Density 1.11
+Density No information available
+Solubility Miscible
+Partition coefficient; 
+n-octanol/water
+-0.77
+Autoignition Temp 867.2 °F (464 °C)
+Decomposition Temp No information available
+Viscosity No information available
+Molecular Formula CH4O
+Molecular Weight 32.04 g/mol
+VOC Content(%) 100% EPA estimated
+Oxidizing properties Not oxidizing
+9.2 Other safety information
+No information available.
+SECTION 10: Stability and reactivity
+10.1Reactivity
+The product is stable and non-reactive under normal conditions of use, storage, and transport. 
+10.2Chemical stability
+Stable under normal conditions. 
+10.3Possibility of hazardous reactions
+None under normal processing.
+10.4Conditions to avoid
+Incompatible products. Heat, flames, and sparks. Keep away from open flames, hot surfaces, 
+and sources of ignition.
+10.5Incompatible materials
+Strong oxidizing agents, Strong acids, Acid anhydrides, Acid chlorides, Strong bases, Metals, 
+Peroxides.
+10.6Hazardous decomposition products
+Carbon monoxide (CO), Formaldehyde.
+SECTION 11: Toxicological information
+11.1Information on toxicological effects
+Product Information, Component Information
+Acute toxicity
+Component LD50 Oral LD50 Dermal LC50 Inhalation
+Laballey.com Page 8 of 11
+Methanol 1187-2769 mg/kg 
+(Rat)  17100 mg/kg (Rabbit)128.2 mg/L  4h (Rat)
+Skin corrosion/irritation
+Prolonged skin contact may cause temporary irritation.
+Serious eye damage/eye irritation
+Direct contact with eyes may cause temporary irritation. 
+Respiratory or skin sensitization
+Not a respiratory sensitizer.
+Germ cell mutagenicity
+No data available to indicate product or any components present at a greater than 0.1% are 
+mutagenic or genotoxic. 
+Carcinogenicity
+Component CAS IARC NTP ACGIH OSHA Mexico
+Methanol 67-56-1Not listedNot listed Not listed Not listedNot listed
+Specific target organ toxicity - single exposure
+Causes damage to organs (central nervous system, optic nerve) by inhalation.
+Specific target organ toxicity - repeated exposure
+Kidney, Liver, Spleen, Blood.
+Reproductive toxicity
+Component substance is listed on California Proposition 65 as a developmental hazard.
+Chronic effects
+May cause blindness. Inhalation of high vapor concentrations may cause symptoms like 
+headache, dizziness, tiredness, nausea, and vomiting.
+11.2Additional Information
+The toxicological properties have not been fully investigated.
+SECTION 12: Ecological information
+12.1Toxicity
+Product Species Test Results
+Methanol
+Freshwater Fish (Pimephales 
+promelas) LC50 > 10000 mg/L, 96h
+Microtox
+EC50 = 39000 mg/L, 25 min
+EC50 = 40000 mg/L, 15 min
+EC50 = 43000 mg/L, 5 min
+Laballey.com Page 9 of 11
+Methanol
+Water Flea EC50 > 10000 mg/L, 24h
+12.2Persistence and degradability
+Persistence is unlikely based on information available.
+12.3Bio accumulative potential
+No information available.
+12.4Mobility in soil
+Likely mobile in the environment due to its volatility.
+12.5Results of PBT and vPvB assessment
+No information available.
+12.6Endocrine disrupting properties
+No information available.
+12.7Other adverse effects
+No information available.
+SECTION 13: Disposal considerations
+13.1Waste Disposal Methods
+Chemical waste generators must determine whether a discarded chemical is classified as a 
+hazardous waste. Chemical waste generators must also consult local, regional, and national 
+hazardous waste regulations to ensure complete and accurate classification.
+SECTION 14: Transport information
+DOT (US)
+UN-no UN1230
+Proper Shipping Name Methanol
+Hazard Class 3
+Packing Group II
+IMDG
+UN-no UN1230
+Proper Shipping Name Methanol
+Hazard Class 3
+Packing Group II
+IATA
+UN-no UN1230
+Proper Shipping Name Methanol
+Hazard Class 3
+Packing Group II
+Laballey.com Page 10 of 11
+SECTION 15: Regulatory information
+US federal regulationsThis product is a "Hazardous Chemical" as defined by the OSHA 
+Hazard Communication Standard, 29 CFR 1910.1200.
+TSCA Section 12(b) Export Notification (40 CFR 707, Subpt. D)
+Not applicable.
+CERCLA Hazardous Substance List (40 CFR 302.4)
+Listed, Methanol (CAS #67-56-1), RQ: 5000 lb.
+SARA 304 Emergency release notification
+Not regulated.
+OSHA Specifically Regulated Substances (29 CFR 1910.1001-1053)
+Not regulated.
+Superfund Amendments and Reauthorization Act of 1986 (SARA)
+SARA 302 Extremely hazardous substance
+Not listed.
+SARA 311/312 Hazardous
+Fire Hazard, Acute Health Hazard, Chronic Health Hazard.
+SARA 313 (TRI reporting)
+Listed, Methanol (CAS #67-56-1).
+Other federal regulations
+Clean Air Act (CAA) Section 112 Hazardous Air Pollutants (HAPs) List
+Listed, Methanol (CAS #67-56-1).
+Clean Air Act (CAA) Section 112(r) Accidental Release Prevention (40 CFR 68.130)
+Not regulated.
+Safe Drinking Water Act
+Contaminate Candidate List.
+FEMA Priority Substances Respiratory Health and Safety in the Flavor 
+Manufacturing Workplace
+Not listed.
+US state regulations
+US. Massachusetts RTK - Substance List
+Listed, Methanol (CAS #67-56-1).
+US. New Jersey Worker and Community Right-to-Know Act
+Listed, Methanol (CAS #67-56-1).
+Laballey.com Page 11 of 11
+US. Pennsylvania Worker and Community Right-to-Know Law
+Listed, Methanol (CAS #67-56-1).
+California Proposition 65
+Listed, Methanol (CAS #67-56-1).
+SECTION 16: Other information
+Issue date: 07/14/2023
+Revision 1: 09/15/2023
+Revision 2: 11/11/2024
+SECTION 17: Disclaimer
+The information provided on this Safety Data Sheet is correct to the best of our knowledge, 
+information and belief at the date of its publication. The information given is designed only as 
+a guide for safe handling, use, processing, storage, transportation, disposal and release and 
+is not to be considered as a warranty or quality specification. The information relates only to 
+the specific material designated and may not be valid for such material used in combination 
+with any other material or in any process, unless specified in the text.

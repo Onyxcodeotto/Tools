@@ -1,0 +1,297 @@
+Laballey.com Page 1 of 9
+www.laballey.com
+512-668-9918
+Caffeine Powder, USP/FCC Grade
+SAFETY DATA SHEET
+SECTION 1: Identification of the substance/mixture and of the company/undertaking
+1.1 Product identifiers
+Product name Caffeine
+CAS number 58-08-2
+Synonyms 1,3,7-trimethylxanthine; 1,3,7-trimethylpurine-2,6-dione
+1.2 Relevant identified uses of the substance or mixture and uses advised against
+Identified uses Laboratory chemicals, Synthesis of substances.
+1.3 Details of the supplier of the safety data sheet
+Company Lab Alley, LLC
+12501 Pauls Valley Road 
+Austin, Texas 78737
+U.S.A.
+Telephone 512-668-9918
+Fax 512-886-4008
+1.4 Emergency telephone
+Emergency Phone # US & Canada: 1-800-535-5053 INFOTRAC
+International 1-352-323-3500 INFOTRAC
+SECTION 2: Hazards identification
+2.1 Classification of the substance or mixture
+GHS Classification in accordance with 29 CFR 1910 (OSHA HCS)
+Acute Oral Toxicity Category 4
+Short-term (Acute) Aquatic Hazard Category 3
+2.2 GHS Label elements, including precautionary statements
+
+Laballey.com Page 2 of 9
+Pictogram
+Signal Word Warning
+Hazard statementsHarmful if swallowed. 
+Harmful to aquatic life.
+Precautionary 
+statements
+Prevention: Wash skin thoroughly after handling. Do not eat, drink or smoke 
+when using this product. Avoid release to the environment.
+IF SWALLOWED: Call a POISON CENTER/ doctor if you feel unwell. Rinse 
+mouth.
+Disposal: Dispose of contents/ container to an approved waste disposal plant.
+2.3 Hazards not otherwise classified (HNOC) or not covered by GHS
+None identified.
+SECTION 3: Composition/information on ingredients
+3.1 Components
+Chemical name Common name and synonymsCAS numberConcentration
+Caffeine 1,3,7-trimethylxanthine; 1,3,7-
+trimethylpurine-2,6-dione 58-08-2 > 99%
+SECTION 4: First aid measures
+4.1 Description of first-aid measures
+General advice
+If inhaled Remove to fresh air. If not breathing, give artificial respiration. Get medical 
+attention if symptoms occur.
+In case of skin contact                     :Wash off immediately with plenty of water for at least 15 minutes. If skin 
+irritation persists, call a physician.
+In case of eye contact                      :Rinse immediately with plenty of water, also under the eyelids, for at least 15 
+minutes. Get medical attention.
+If swallowed Clean mouth with water and drink afterwards plenty of water. Get medical 
+attention if symptoms occur.
+4.2 Most important symptoms and effects, both acute and delayed
+
+Laballey.com Page 3 of 9
+None reasonably foreseeable.
+4.3 Indication of any immediate medical attention and special treatment needed
+If symptoms persist, call a physician. Treat symptomatically.
+SECTION 5: Firefighting measures
+5.1 Extinguishing media
+Suitable extinguishing media Water spray, Carbon dioxide (CO2), dry chemical, 
+alcohol-resistant foam.
+Unsuitable extinguishing mediaFor this substance/mixture, no limitations of 
+extinguishing agents are given.
+5.2 Specific hazards arising from the substance or mixture
+Thermal decomposition can lead to release of irritating gases and vapors. Keep product and 
+empty container away fromheat andsources of ignition. 
+Hazardous Combustion Products: Carbon monoxide (CO), Carbon dioxide (CO2), Nitrogen 
+oxides (NOx).
+5.3 Special protective equipment and precautions for firefighters
+As in any fire, wear self-contained breathing apparatus pressure-demand, MSHA/NIOSH 
+(approved or equivalent) and full protective gear.
+5.4 Further information
+Flash Point No information available.
+Autoignition Temperature No information available.
+Explosion limits
+Upper No data available.
+Lower No data available.
+Sensitivity to Mechanical ImpactNo information available.
+Sensitivity to Static DischargeNo information available.
+NFPA
+Health FlammabilityInstabilityPhysical hazards
+2 1 0 N/A
+SECTION 6: Accidental release measures
+Laballey.com Page 4 of 9
+6.1 Personal precautions, protective equipment and emergency procedures
+Clean up waste regularly and abnormal spills immediately. Avoid breathing dust and contact 
+with skin and eyes. Wear protective clothing, gloves, safety glasses, and dust respirator. Use 
+dry clean up procedures and avoid generating dust. Clear area of personnel and move 
+upwind. Alert Fire Brigade and tell them location and nature of hazard. Wear full body 
+protective clothing with breathing apparatus. 
+6.2 Environmental precautions
+Prevent, by any means available, spillage from entering drains or water course.
+6.3 Methods and materials for containment and cleaning up
+Cover drains. Collect, bind, and pump off spills. Take up dry. Dispose of properly. Clean up 
+affected area. Avoid generation of dusts.
+6.4 Reference to other sections
+See Section 13 for disposal.
+SECTION 7: Handling and storage
+7.1 Precautions for safe handling
+Precautions on safe handling
+Avoid all personal contact, including inhalation. Wear protective clothing when risk of 
+exposure occurs. Use in a well-ventilated area. Prevent concentration in hollows and sumps.
+Hygiene measures
+Handle in accordance with good industrial hygiene and safety practice.
+7.2 Conditions for safe storage, including any incompatibilities
+Storage conditions
+Store in original containers. Keep containers securely sealed. Store in a cool, dry, well-
+ventilated area. Store away from incompatible materials and foodstuff containers.
+Incompatibilities
+Strong oxidizing agents.
+SECTION 8: Exposure controls/personal protection
+8.1 Occupational exposure limits
+This product does not contain any hazardous materials with occupational exposure limits 
+established by the region specific regulatory bodies.
+8.2 Exposure controls
+Laballey.com Page 5 of 9
+Appropriate engineering controls
+Change contaminated clothing. Preventive skin protection recommended. Wash hands after 
+working with substance.  Use process enclosures, local exhaust ventilation, or other 
+engineering controls to keep airborne levels below recommended exposure limits. If user 
+operations generate dust, fume or mist, use ventilation to keep exposure to airborne 
+contaminants below the exposure limit. 
+Personal protective equipment
+Eye/face protection
+Wear appropriate protective eyeglasses or chemical safety goggles as described 
+by OSHA's eye and face protection regulations in 29 CFR 1910.133 or European 
+Standard EN166.
+Skin protection
+Wear appropriate protective gloves and clothing to prevent skin exposure.
+Body Protection
+Wear appropriate protective gloves and clothing to prevent skin exposure.
+Respiratory protection
+Follow the OSHA respirator regulations found in 29 CFR 1910.134 or European 
+Standard EN 149. Use a NIOSH/MSHA or European Standard EN 149 approved 
+respirator if exposure limits are exceeded or if irritation or other symptoms are 
+experienced.
+Control of environmental exposure
+Do not let product enter into drains.
+SECTION 9: Physical and chemical properties
+9.1 Information on basic physical and chemical properties
+Physical State Solid powder
+Appearance Colorless
+Odor Odorless
+Odor Threshold No information available
+pH 6.9
+Melting Point/Range 234 - 236.5 °C (453 - 457.7 °F)
+Boiling Point/Range No information available
+Evaporation Rate Not applicable
+Flammability (solid) No information available
+Flammability or explosive limitNo data available
+Upper
+Lower
+Vapor Pressure No information available
+Vapor Density Not applicable
+Laballey.com Page 6 of 9
+Density 1.23 g/cm3 at 18 °C (64 °F)
+Solubility Soluble in hot water; soluble in chloroform
+Partition coefficient; 
+n-octanol/water
+No data available
+Autoignition Temp No information available
+Decomposition Temp No information available
+Viscosity Not applicable
+Molecular Formula C8H10N4O2
+Molecular Weight 194.19 g/mol
+VOC Content(%) No information available
+Oxidizing properties No information available
+9.2 Other safety information
+No information available.
+SECTION 10: Stability and reactivity
+10.1Reactivity
+The following applies in general to flammable organic substances and mixtures: in 
+correspondingly fine distribution, when whirled up a dust explosion potential may generally be 
+assumed. 
+10.2Chemical stability
+The product is chemically stable under standard ambient conditions (room temperature).
+10.3Possibility of hazardous reactions
+Violent reactions possible with strong oxidizing agents.
+10.4Conditions to avoid
+Avoid strong acids and bases. Avoid reaction with oxidizing agents. 
+10.5Incompatible materials
+Strong oxidizing agents.
+10.6Hazardous decomposition products
+Carbon monoxide (CO), Carbon dioxide (CO2), Nitrogen oxides (NOx).
+SECTION 11: Toxicological information
+11.1Information on toxicological effects
+Product Information, Component Information
+Acute toxicity
+Component LD50 Oral LD50 Dermal LC50 Inhalation
+Caffeine 367.7 mg/kg (Rat)> 2000 mg/kg (Rat)4.94 mg/L/4h (Rat)
+Skin corrosion/irritation
+Laballey.com Page 7 of 9
+No information available.
+Serious eye damage/eye irritation
+No information available.
+Respiratory or skin sensitization
+No information available.
+Germ cell mutagenicity
+Not mutagenic in AMES Test.
+Carcinogenicity
+Component CAS IARC NTP ACGIH OSHA Mexico
+Caffeine 58-08-2Not listedNot listed Not listed Not listedNot listed
+Specific target organ toxicity - single exposure
+None known.
+Specific target organ toxicity - repeated exposure
+None known.
+Reproductive toxicity
+No information available.
+Chronic effects
+No information available.
+11.2Additional Information
+The toxicological properties have not been fully investigated.
+SECTION 12: Ecological information
+12.1Toxicity
+Product Species Test Results
+Caffeine LC50 Freshwater Fish (Pimephales 
+promelas) 151 mg/L, 96h flow-through
+12.2Persistence and degradability
+Persistence is unlikely.
+12.3Bio accumulative potential
+No information available.
+12.4Mobility in soil
+Likely mobile in the environment due to its water solubility.
+Laballey.com Page 8 of 9
+12.5Results of PBT and vPvB assessment
+PBT/vPvB assessment not available as chemical safety assessment not required/not 
+conducted.
+12.6Endocrine disrupting properties
+No information available.
+12.7Other adverse effects
+Discharge into the environment must be avoided.
+SECTION 13: Disposal considerations
+13.1Waste Disposal Methods
+Chemical waste generators must determine whether a discarded chemical is classified as a 
+hazardous waste. Chemical waste generators must also consult local, regional, and national 
+hazardous waste regulations to ensure complete and accurate classification.
+SECTION 14: Transport information
+DOT (US) Not regulated.
+IMDG Not regulated.
+IATA Not regulated.
+SECTION 15: Regulatory information
+US federal regulationsThis product is a "Hazardous Chemical" as defined by the OSHA 
+Hazard Communication Standard, 29 CFR 1910.1200.
+TSCA Section 12(b) Export Notification (40 CFR 707, Subpt. D)
+Not applicable.
+CERCLA Hazardous Substance List (40 CFR 302.4)
+Not listed.
+SARA 304 Emergency release notification
+Not regulated.
+OSHA Specifically Regulated Substances (29 CFR 1910.1001-1053)
+Not regulated.
+Superfund Amendments and Reauthorization Act of 1986 (SARA)
+SARA 302 Extremely hazardous substance
+Not listed.
+Laballey.com Page 9 of 9
+SARA 311/312 Hazardous
+Acute Health Hazard, Chronic Health Hazard.
+SARA 313 (TRI reporting)
+Not regulated.
+Other federal regulations
+Clean Air Act (CAA) Section 112 Hazardous Air Pollutants (HAPs) List
+Not regulated.
+Clean Air Act (CAA) Section 112(r) Accidental Release Prevention (40 CFR 68.130)
+Not regulated.
+Safe Drinking Water Act
+Not regulated.
+FEMA Priority Substances Respiratory Health and Safety in the Flavor 
+Manufacturing Workplace
+Not listed.
+US state regulations
+US. Massachusetts RTK - Substance List
+Not listed.
+US. New Jersey Worker and Community Right-to-Know Act
+Not listed.
+US. Pennsylvania Worker and Community Right-to-Know Law
+Not listed.
+California Proposition 65
+Not listed.
+SECTION 16: Other information
+Issue date: 06/06/2023
+Revision 1: 08/29/2023
+Revision 2: 10/02/2024
+SECTION 17: Disclaimer
+The information provided on this Safety Data Sheet is correct to the best of our knowledge, 
+information and belief at the date of its publication. The information given is designed only as 
+a guide for safe handling, use, processing, storage, transportation, disposal and release and 
+is not to be considered as a warranty or quality specification. The information relates only to 
+the specific material designated and may not be valid for such material used in combination 
+with any other material or in any process, unless specified in the text.

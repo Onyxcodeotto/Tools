@@ -1,0 +1,479 @@
+Laballey.com Page 1 of 13
+www.laballey.com
+512-668-9918
+Xylenes ACS Grade
+SAFETY DATA SHEET
+SECTION 1: Identification of the substance/mixture and of the company/undertaking
+1.1 Product identifiers
+Product name Xylenes
+CAS number See Section 3 for component information
+Synonyms Mixed Xylenes
+1.2 Relevant identified uses of the substance or mixture and uses advised against
+Identified uses General purpose solvent.
+1.3 Details of the supplier of the safety data sheet
+Company Lab Alley, LLC
+12501 Pauls Valley Road 
+Austin, Texas 78737
+U.S.A.
+Telephone 512-668-9918
+Fax 512-886-4008
+1.4 Emergency telephone
+Emergency Phone # US & Canada: 1-800-535-5053 INFOTRAC
+International 1-352-323-3500 INFOTRAC
+SECTION 2: Hazards identification
+2.1 Classification of the substance or mixture
+GHS Classification in accordance with 29 CFR 1910 (OSHA HCS)
+Flammable Liquids Category 3
+Acute Dermal Toxicity Category 4
+Acute Inhalation Toxicity Category 4
+Skin Corrosion/Irritation Category 2
+Serious Eye Damage/Eye Irritation Category 2B
+Carcinogenicity Category 2
+
+Laballey.com Page 2 of 13
+Reproductive Toxicity Category 2
+Specific Target Organ Toxicity (single exposure)Category 3
+Specific Target Organ Toxicity (repeated exposure)Category 2
+Aspiration Hazard Category 1
+Acute Aquatic Hazard Category 2
+2.2 GHS Label elements, including precautionary statements
+Pictogram
+Signal Word Danger
+Hazard statementsFlammable liquid and vapor. 
+Harmful in contact with skin or if inhaled. 
+Causes skin irritation. 
+Causes eye irritation. 
+Suspected of causing cancer. 
+Suspected of damaging fertility or the unborn child. 
+May cause respiratory irritation. 
+May cause drowsiness or dizziness. 
+May cause damage to organs (auditory organs, central nervous 
+system, kidney, liver) through prolonged or
+repeated exposure. 
+May be fatal if swallowed and enters airways. 
+Toxic to aquatic life.
+Precautionary 
+statements
+Prevention: Obtain special instructions before use. Do not handle until all 
+safety precautions have been read and understood. Keep away from 
+heat/sparks/open flames/hot surfaces. - No smoking. Keep container tightly 
+closed. Ground/bond container and receiving equipment. Use explosion-proof 
+electrical/ventilating/lighting equipment. Use only non-sparking tools. Take 
+precautionary measures against static discharge. Do not breathe mist or 
+vapor. Wash thoroughly after handling. Use only outdoors or in a well-
+ventilated area. Avoid release to the environment. Wear protective 
+gloves/protective clothing/eye protection/face protection.
+Response: If exposed or concerned, get medical advice/attention. If 
+swallowed: Immediately call a poison center/doctor. Do NOT induce vomiting. 
+If on skin (or hair): Take off immediately all contaminated clothing. Rinse skin 
+with water/shower. If skin irritation occurs: Get medical advice/attention. 
+Wash contaminated clothing before reuse. If in eyes: Rinse cautiously with 
+water for several minutes. Remove contact lenses, if present and easy to do. 
+Continue rinsing. If eye irritation persists: Get medical advice/attention. If 
+inhaled: Remove person to fresh air and keep comfortable for breathing. Call 
+a poison center/doctor if you feel unwell.
+
+Laballey.com Page 3 of 13
+Fire: In case of fire, use appropriate media to extinguish.
+Storage: Keep cool. Store in a well-ventilated place. Keep container tightly 
+closed. Store locked up.
+Disposal: Dispose of contents/container in accordance with 
+local/regional/national/international regulations.
+2.3 Hazards not otherwise classified (HNOC) or not covered by GHS
+Static accumulating flammable liquid can become electrostatically charged even in bonded 
+and grounded equipment. Sparks may ignite liquid and vapor. May cause flash fire or 
+explosion.
+SECTION 3: Composition/information on ingredients
+3.1 Components
+Chemical name Common name and synonymsCAS numberConcentration
+Xylene Methyl toluene; Xylol 1330-20-7 80-90%
+Ethylbenzene Ethylbenzol; EB 100-41-4 10-19%
+Toluene Methyl benzene; Toluol 108-88-3 <5%
+SECTION 4: First aid measures
+4.1 Description of first-aid measures
+General advice
+If inhaled Remove victim to fresh air and keep at rest in a position comfortable for 
+breathing. Oxygen or artificial respiration if needed. Call a poison center or 
+doctor/physician if you feel unwell.
+In case of skin contact                     :Take off immediately all contaminated clothing. Rinse skin with 
+water/shower. Get medical advice/attention if you feel unwell. If skin irritation 
+occurs: Get medical advice/attention. Wash contaminated clothing before 
+reuse.
+In case of eye contact                      :Immediately flush eyes with plenty of water for at least 15 minutes. Remove 
+contact lenses, if present and easy to do. Continue rinsing. Get medical 
+attention if irritation develops and persists.
+If swallowed Call a physician or poison control center immediately. Rinse mouth. Do not 
+induce vomiting. If vomiting occurs, keep head low so that stomach content 
+doesn't get into the lungs.
+4.2 Most important symptoms and effects, both acute and delayed
+Laballey.com Page 4 of 13
+Aspiration may cause pulmonary edema and pneumonitis. Be aware that symptoms of 
+chemical pneumonia (shortness of breath) may occur several hours after exposure. May 
+cause drowsiness and dizziness. Narcosis. Headache. Nausea, vomiting. Behavioral 
+changes. Decrease in motor functions. Irritation of eyes. Exposed individuals may experience 
+eye tearing, redness, and discomfort. May cause respiratory irritation. Skin irritation. May 
+cause redness and pain. Edema. Jaundice. Prolonged exposure may cause chronic effects.
+4.3 Indication of any immediate medical attention and special treatment needed
+Provide general supportive measures and treat symptomatically. Thermal burns: Flush with 
+water immediately. While flushing, remove clothes which do not adhere to affected area. Call 
+an ambulance. Continue flushing during transport to hospital. Keep victim warm. Keep victim 
+under observation. Symptoms may be delayed.
+SECTION 5: Firefighting measures
+5.1 Extinguishing media
+Suitable extinguishing media Water fog. Foam. Dry chemical powder, carbon 
+dioxide, sand or earth may be used for small fires 
+only.
+Unsuitable extinguishing mediaDo not use water jet as an extinguisher, as this will 
+spread the fire.
+5.2 Specific hazards arising from the substance or mixture
+Vapors may form explosive mixtures with air. Vapors may travel considerable distance to a 
+source of ignition and flash back. This product is a poor conductor of electricity and can 
+become electrostatically charged. If sufficient charge is accumulated, ignition of flammable 
+mixtures can occur. To reduce potential for static discharge, use proper bonding and 
+grounding procedures. This liquid may accumulate static electricity when filling properly 
+grounded containers. Static electricity accumulation may be significantly increased by the 
+presence of small quantities of water or other contaminants. Material will float and may ignite 
+on surface of water. During fire, gases hazardous to health may be formed. Combustion 
+products may include: carbon oxides.
+5.3 Special protective equipment and precautions for firefighters
+In case of fire and/or explosion do not breathe fumes. Move containers from fire area if you 
+can do so without risk. Use water spray to keep fire-exposed containers cool. Self-contained 
+breathing apparatus and full protective clothing must be worn in case of fire. Use standard 
+firefighting procedures and consider the hazards of other involved materials.
+5.4 Further information
+Flash Point 79.0 °F (26.1 °C) Closed Cup
+Autoignition Temperature 982.4 °F (528 °C)
+Explosion limits
+Laballey.com Page 5 of 13
+Upper 7 % v/v
+Lower 1.1 % v/v
+Sensitivity to Mechanical ImpactNo information available.
+Sensitivity to Static DischargeNo information available.
+NFPA
+Health FlammabilityInstabilityPhysical hazards
+2 3 0 N/A
+SECTION 6: Accidental release measures
+6.1 Personal precautions, protective equipment and emergency procedures
+Keep unnecessary personnel away. Keep people away from and upwind of spill/leak. 
+Eliminate all ignition sources (no smoking, flares, sparks, or flames in immediate area). Wear 
+appropriate protective equipment and clothing during clean-up. Do not breathe mist or vapor. 
+Do not touch damaged containers or spilled material unless wearing appropriate protective 
+clothing. Ventilate closed spaces before entering them. Use appropriate containment to avoid 
+environmental contamination. Transfer by mechanical means such as vacuum truck to a 
+salvage tank or other suitable container for recovery or safe disposal. Local authorities should 
+be advised if significant spillages cannot be contained. For personal protection, see Section 8 
+of the SDS.
+6.2 Environmental precautions
+Avoid release to the environment. Inform appropriate managerial or supervisory personnel of 
+all environmental releases. Prevent further leakage or spillage if safe to do so. Avoid 
+discharge into drains, water courses or onto the ground. Use appropriate containment to avoid 
+environmental contamination.
+6.3 Methods and materials for containment and cleaning up
+Eliminate all ignition sources (no smoking, flares, sparks, or flames in immediate area). Keep 
+combustibles (wood, paper, oil, etc.) away from spilled material. Take precautionary measures 
+against static discharge. Use only non-sparking tools. The product is immiscible with water 
+and will spread on the water surface. Prevent product from entering drains.
+Large Spills: Stop the flow of material, if this is without risk. Dike the spilled material, where 
+this is possible. Use a non-combustible material like vermiculite, sand or earth to soak up the 
+product and place into a container for later disposal. Following product recovery, flush area 
+with water.
+Small Spills: Absorb with earth, sand or other non-combustible material and transfer to 
+containers for later disposal. Wipe up with absorbent material (e.g. cloth, fleece). Clean 
+surface thoroughly to remove residual contamination.
+Never return spills to original containers for re-use. Put material in suitable, covered, labeled 
+containers. For waste disposal, see Section 13 of the SDS.
+6.4 Reference to other sections
+See Section 2 for full list of hazard and precaution statements. 
+Laballey.com Page 6 of 13
+SECTION 7: Handling and storage
+7.1 Precautions for safe handling
+Precautions on safe handling
+Obtain special instructions before use. Do not handle until all safety precautions have been 
+read and understood. Do not handle, store or open near an open flame, sources of heat or 
+sources of ignition. Protect material from direct sunlight. Explosion-proof general and local 
+exhaust ventilation. Minimize fire risks from flammable and combustible materials (including 
+combustible dust and static accumulating liquids) or dangerous reactions with incompatible 
+materials. Handling operations that can promote accumulation of static charges include but 
+are not limited to: mixing, filtering, pumping at high flow rates, splash filling, creating mists or 
+sprays, tank and container filling, tank cleaning, sampling, gauging, switch loading, vacuum 
+truck operations. Take precautionary measures against static discharges. All equipment used 
+when handling the product must be grounded. Use non-sparking tools and explosion-proof 
+equipment. Avoid contact with eyes, skin, and clothing. Avoid prolonged exposure. When 
+using, do not eat, drink or smoke. Pregnant or breastfeeding women must not handle this 
+product. Should be handled in closed systems, if possible. Wear appropriate personal 
+protective equipment. Wash hands thoroughly after handling. Avoid release to the 
+environment. Wash contaminated clothing before reuse. Observe good industrial hygiene 
+practices.
+Hygiene measures
+Observe any medical surveillance requirements. When using do not smoke. Always observe 
+good personal hygiene measures, such as washing after handling the material and before 
+eating, drinking, and/or smoking. Routinely wash work clothing and protective equipment to 
+remove contaminants.
+7.2 Conditions for safe storage, including any incompatibilities
+Storage conditions
+Store locked up. Keep away from heat, sparks and open flame. Prevent electrostatic charge 
+build-up by using common bonding and grounding techniques. Eliminate sources of ignition. 
+Avoid spark promoters. Ground/bond container and equipment. These alone may be 
+insufficient to remove static electricity. Store in a cool, dry place out of direct sunlight. Store in 
+tightly closed container. Store in a well-ventilated place. Keep in an area equipped with 
+sprinklers. Store away from incompatible materials.
+Incompatibilities
+Strong acids. Strong oxidizing agents. Halogens.
+SECTION 8: Exposure controls/personal protection
+8.1 Occupational exposure limits
+US. OSHA Table Z-1 Limits for Air Contaminants (29 CFR 1910.1000) 
+Component Type Value
+Xylene PEL  435 mg/m3 100 ppm
+Ethylbenzene PEL  435 mg/m3 100 ppm
+Laballey.com Page 7 of 13
+Toluene Ceiling 300 ppm
+TWA 200 ppm
+US. ACGIH Threshold Limit Values
+Component Type Value
+Xylene STEL 150 ppm
+TWA 100 ppm
+Ethylbenzene TWA 20 ppm
+Toluene TWA 20 ppm
+US. NIOSH: Pocket Guide to Chemical Hazards
+Component Type Value
+Xylene STEL  655 mg/m3 150 ppm
+TWA 435 mg/m3 100 ppm
+Ethylbenzene STEL 545 mg/m3 125 ppm
+TWA 435 mg/m3 100 ppm
+Toluene STEL 560 mg/m3 150 ppm
+TWA 375 mg/m3 100 ppm
+ACGIH Biological Exposure Indices
+Component Determinant Specimen Value
+Xylene Methylhippuric acids Creatinine in urine 1.5 g/g
+Ethylbenzene Sum of mandelic acid
+and phenylglyoxylic acidCreatinine in urine 0.15 g/g
+Toluene
+ o-Cresol, with hydrolysis
+Toluene
+Toluene
+Creatinine in urine
+Urine
+Blood
+0.3 mg/g
+0.03 mg/l
+0.02 mg/l
+8.2 Exposure controls
+Appropriate engineering controls
+Explosion-proof general and local exhaust ventilation. Good general ventilation should be 
+used. Ventilation rates should be matched to conditions. If applicable, use process 
+enclosures, local exhaust ventilation, or other engineering controls to maintain airborne levels 
+below recommended exposure limits. If exposure limits have not been established, maintain 
+airborne levels to an acceptable level. Provide eyewash station and safety shower.
+Personal protective equipment
+Eye/face protection
+Chemical goggles are recommended.
+Skin protection
+Wear appropriate chemical resistant gloves. Suitable gloves can be 
+recommended by the glove supplier. Be aware that the liquid may penetrate the 
+gloves. Frequent change is advisable. 
+Body Protection
+Laballey.com Page 8 of 13
+Wear appropriate chemical resistant clothing. Use of an impervious apron is 
+recommended. Wear appropriate thermal protective clothing, when necessary. 
+Respiratory protection
+If engineering controls do not maintain airborne concentrations below 
+recommended exposure limits (where applicable) or to an acceptable level (in 
+countries where exposure limits have not been established), an approved 
+respirator must be worn. Respirator type: Chemical respirator with organic vapor 
+cartridge.
+Control of environmental exposure
+No information available.
+SECTION 9: Physical and chemical properties
+9.1 Information on basic physical and chemical properties
+Physical State Liquid
+Appearance Colorless
+Odor Not available
+Odor Threshold Not available
+pH Not available
+Melting Point/Range < 32 °F (< 0 °C)
+Boiling Point/Range 278.6 - 284 °F (137 - 140 °C)
+Evaporation Rate Not available
+Flammability (solid) Not applicable
+Flammability or explosive limit
+Upper 7 % v/v
+Lower 1.1 % v/v
+Vapor Pressure Not available
+Vapor Density Not available
+Density 0.86 g/cm3
+Solubility Insoluble in water
+Partition coefficient; 
+n-octanol/water
+3.15
+Autoignition Temp 982.4 °F (528 °C)
+Decomposition Temp Not available
+Viscosity Not available
+Molecular Formula N/A
+Molecular Weight N/A
+VOC Content(%) Not available
+Oxidizing properties Not oxidizing
+9.2 Other safety information
+No information available.
+SECTION 10: Stability and reactivity
+Laballey.com Page 9 of 13
+10.1Reactivity
+The product is stable and non-reactive under normal conditions of use, storage and transport.
+10.2Chemical stability
+Material is stable under normal conditions.
+10.3Possibility of hazardous reactions
+Hazardous polymerization does not occur.
+10.4Conditions to avoid
+Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. Avoid
+temperatures exceeding the flash point. Contact with incompatible materials.
+10.5Incompatible materials
+Strong acids. Strong oxidizing agents. Halogens.
+10.6Hazardous decomposition products
+No hazardous decomposition products are known.
+SECTION 11: Toxicological information
+11.1Information on toxicological effects
+Product Information, Component Information
+Acute toxicity
+Component LD50 Oral LD50 Dermal LC50 Inhalation
+Ethylbenzene 3500 - 4700 mg/kg 
+(Rat) 15400 mg/kg (Rabbit)17.4 mg/l, 4 hours 
+(Rat)
+Toluene - 12200 mg/kg (Rabbit)28.1 mg/l, 4 Hours 
+(Rat)
+Xylene 3523 mg/kg (Rat) - -
+Skin corrosion/irritation
+Causes skin irritation.
+Serious eye damage/eye irritation
+Causes eye irritation.
+Respiratory or skin sensitization
+Not a respiratory sensitizer. This product is not expected to cause skin sensitization.
+Germ cell mutagenicity
+No data available to indicate product or any components present at greater than 0.1% are 
+mutagenic or genotoxic.
+Laballey.com Page 10 of 13
+Carcinogenicity
+Component CAS IARC NTP ACGIH OSHA Mexico
+Ethylbenzene 100-41-4Group 2BNot listed A3 X A3
+Toluene 108-88-3Group 3 Not listed Not listed Not listedNot listed
+Xylene 1330-20-7Group 3 Not listed Not listed Not listedNot listed
+Specific target organ toxicity - single exposure
+May cause respiratory irritation. May cause drowsiness and dizziness.
+Specific target organ toxicity - repeated exposure
+May cause damage to organs (auditory organs, central nervous system, kidney, liver) through 
+prolonged or repeated exposure.
+Reproductive toxicity
+Suspected of damaging fertility or the unborn child. Components in this product have been 
+shown to cause birth defects and reproductive disorders in laboratory animals.
+Chronic effects
+May cause damage to organs through prolonged or repeated exposure. Prolonged inhalation 
+may be harmful. Prolonged exposure may cause chronic effects.
+11.2Additional Information
+Aspiration hazard: may be fatal if swallowed and enters airways.
+SECTION 12: Ecological information
+12.1Toxicity
+Toxic to aquatic life.
+Product Species Test Results
+Ethylbenzene
+EC50 Daphnia magna 1.81 - 2.38 mg/l, 48 hours
+LC50 Oncorhynchus mykiss 4.2 mg/l, 96 hours
+EC50 Ceriodaphnia dubia 3.6 mg/l, 7 days
+Toluene
+EC50 Daphnia magna 11.5 mg/l, 48 hours
+LC50 Oncorhynchus kisutch 5.5 mg/l, 96 hours
+NOEC Ceriodaphnia dubia 0.74 mg/l, 7 days
+NOEC Oncorhynchus kisutch 1.4 mg/l, 40 days
+Xylene LC50 Oncorhynchus mykiss 2.6 mg/l, 96 hours
+12.2Persistence and degradability
+No data is available on the degradability of this product.
+12.3Bio accumulative potential
+See Section 9 for log Pow.
+12.4Mobility in soil
+Laballey.com Page 11 of 13
+The product is insoluble in water and will spread on water surfaces.
+12.5Results of PBT and vPvB assessment
+No information available.
+12.6Endocrine disrupting properties
+No information available.
+12.7Other adverse effects
+No information available.
+SECTION 13: Disposal considerations
+13.1Waste Disposal Methods
+Chemical waste generators must determine whether a discarded chemical is classified as a 
+hazardous waste. Chemical waste generators must also consult local, regional, and national 
+hazardous waste regulations to ensure complete and accurate classification.
+SECTION 14: Transport information
+DOT (US)
+UN-no UN1307
+Proper Shipping Name Xylenes
+Hazard Class 3
+Packing Group III
+IMDG
+UN-no UN1307
+Proper Shipping Name Xylenes
+Hazard Class 3
+Packing Group III
+IATA
+UN-no UN1307
+Proper Shipping Name Xylenes
+Hazard Class 3
+Packing Group III
+SECTION 15: Regulatory information
+US federal regulationsThis product is a "Hazardous Chemical" as defined by the OSHA 
+Hazard Communication Standard, 29 CFR 1910.1200.
+TSCA Section 12(b) Export Notification (40 CFR 707, Subpt. D)
+Not applicable.
+Laballey.com Page 12 of 13
+CERCLA Hazardous Substance List (40 CFR 302.4)
+Listed, Xylene (CAS #1330-20-7), RQ: 100 lb.
+Listed, Ethylbenzene (CAS #100-41-4), RQ: 1000 lb.
+Listed, Toluene (CAS #108-88-3), RQ: 1000 lb.
+SARA 304 Emergency release notification
+Not regulated.
+OSHA Specifically Regulated Substances (29 CFR 1910.1001-1053)
+Not regulated.
+Superfund Amendments and Reauthorization Act of 1986 (SARA)
+SARA 302 Extremely hazardous substance
+Not listed.
+SARA 311/312 Hazardous
+See Section 2 for more information.
+SARA 313 (TRI reporting)
+Listed, Xylene (CAS #1330-20-7).
+Listed, Ethylbenzene (CAS #100-41-4).
+Listed, Toluene (CAS #108-88-3).
+Other federal regulations
+Clean Air Act (CAA) Section 112 Hazardous Air Pollutants (HAPs) List
+Listed, Xylene (CAS #1330-20-7).
+Listed, Ethylbenzene (CAS #100-41-4).
+Listed, Toluene (CAS #108-88-3).
+Clean Air Act (CAA) Section 112(r) Accidental Release Prevention (40 CFR 68.130)
+Not regulated.
+Safe Drinking Water Act
+Listed, Toluene (CAS #108-88-3).
+FEMA Priority Substances Respiratory Health and Safety in the Flavor 
+Manufacturing Workplace
+Not listed.
+US state regulations
+US. Massachusetts RTK - Substance List
+Listed, Xylene (CAS #1330-20-7).
+Listed, Ethylbenzene (CAS #100-41-4).
+Listed, Toluene (CAS #108-88-3).
+US. New Jersey Worker and Community Right-to-Know Act
+Listed, Xylene (CAS #1330-20-7).
+Listed, Ethylbenzene (CAS #100-41-4).
+Listed, Toluene (CAS #108-88-3).
+Laballey.com Page 13 of 13
+US. Pennsylvania Worker and Community Right-to-Know Law
+Listed, Xylene (CAS #1330-20-7).
+Listed, Ethylbenzene (CAS #100-41-4).
+Listed, Toluene (CAS #108-88-3).
+California Proposition 65
+Listed, Ethylbenzene (CAS #100-41-4).
+Listed, Toluene (CAS #108-88-3).
+SECTION 16: Other information
+Issue date: 09/27/2018
+Revision 1: 11/08/2024
+SECTION 17: Disclaimer
+The information provided on this Safety Data Sheet is correct to the best of our knowledge, 
+information and belief at the date of its publication. The information given is designed only as 
+a guide for safe handling, use, processing, storage, transportation, disposal and release and 
+is not to be considered as a warranty or quality specification. The information relates only to 
+the specific material designated and may not be valid for such material used in combination 
+with any other material or in any process, unless specified in the text.

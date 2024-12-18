@@ -1,0 +1,351 @@
+Laballey.com Page 1 of 11
+www.laballey.com
+512-668-9918
+Acetone 99.5%, ACS
+SAFETY DATA SHEET
+SECTION 1: Identification of the substance/mixture and of the company/undertaking
+1.1 Product identifiers
+Product name Acetone
+CAS number 67-64-1
+Synonyms Dimethyl ketone; 2-propanone
+1.2 Relevant identified uses of the substance or mixture and uses advised against
+Identified uses Laboratory chemicals.
+1.3 Details of the supplier of the safety data sheet
+Company Lab Alley, LLC
+12501 Pauls Valley Road 
+Austin, Texas 78737
+U.S.A.
+Telephone 512-668-9918
+Fax 512-886-4008
+1.4 Emergency telephone
+Emergency Phone # US & Canada: 1-800-535-5053 INFOTRAC
+International 1-352-323-3500 INFOTRAC
+SECTION 2: Hazards identification
+2.1 Classification of the substance or mixture
+GHS Classification in accordance with 29 CFR 1910 (OSHA HCS)
+Flammable Liquids (Category 2)
+Serious Eye Damage/Eye Irritation (Category 2)
+Specific Target Organ Toxicity - single exposure (Category 3)
+Target Organs- Central nervous system (CNS)
+Specific Target Organ Toxicity - repeated exposure (Category 2)
+Target Organs- Kidney, Liver, Spleen, Blood
+
+Laballey.com Page 2 of 11
+2.2 GHS Label elements, including precautionary statements
+Pictogram
+Signal Word Danger
+Hazard statementsHighly flammable liquid and vapor
+Causes serious eye irritation
+May cause drowsiness or dizziness
+May cause damage to organs through prolonged or repeated 
+exposure
+Precautionary 
+statements
+Wash face, hands and any exposed skin thoroughly after handling
+Do not breathe dust/fume/gas/mist/vapors/spray
+Use only outdoors or in a well-ventilated area
+Keep away from heat/sparks/open flames/hot surfaces. - No smoking
+Keep container tightly closed
+Ground/bond container and receiving equipment
+Use explosion-proof electrical/ventilating/lighting equipment
+Use only non-sparking tools
+Take precautionary measures against static discharge
+Wear protective gloves/protective clothing/eye protection/face protection
+Keep cool
+Get medical attention/advice if you feel unwell
+IF INHALED: Remove victim to fresh air and keep at rest in a position 
+comfortable for breathing
+Call a POISON CENTER or doctor/physician if you feel unwell
+IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse 
+skin with water/shower
+IF IN EYES: Rinse cautiously with water for several minutes. Remove contact 
+lenses, if present and easy to do. Continue rinsing
+If eye irritation persists: Get medical advice/attention
+In case of fire: Use CO2, dry chemical, or foam for extinction
+Store in a well-ventilated place. Keep container tightly closed
+Store locked up
+Dispose of contents/container to an approved waste disposal plant
+2.3 Hazards not otherwise classified (HNOC) or not covered by GHS
+Repeated exposure may cause skin dryness or cracking.
+SECTION 3: Composition/information on ingredients
+3.1 Components
+Chemical name Common name and synonymsCAS numberConcentration
+Acetone Dimethyl ketone; 2-propanone 67-64-1 > 99.5%
+
+Laballey.com Page 3 of 11
+SECTION 4: First aid measures
+4.1 Description of first-aid measures
+General advice
+If inhaled Remove victim to fresh air and keep at rest in a position comfortable for 
+breathing. Call a poison center or doctor/physician if you feel unwell.
+In case of skin contact                     :Take off immediately all contaminated clothing. Rinse skin with 
+water/shower. Get medical attention if irritation develops and persists.
+In case of eye contact                      :Rinse immediately with plenty of water, also under the eyelids, for at least 15 
+minutes. Get medical attention.
+If swallowed Rinse mouth. Get medical attention if symptoms occur.
+4.2 Most important symptoms and effects, both acute and delayed
+Symptoms of overexposure may be headache, dizziness, tiredness, nausea and vomiting: 
+May cause pulmonary edema.
+4.3 Indication of any immediate medical attention and special treatment needed
+Note to Physician: Treat symptomatically.
+SECTION 5: Firefighting measures
+5.1 Extinguishing media
+Suitable extinguishing media Water spray, carbon dioxide (CO2), dry chemical, 
+alcohol-resistant foam. Water mist may be used to 
+cool closed containers.
+Unsuitable extinguishing mediaWater may be ineffective.
+5.2 Specific hazards arising from the substance or mixture
+Flammable. Risk of ignition. Containers may explode when heated. Vapors may form 
+explosive mixtures with air. Vapors may travel to source of ignition and flash back.
+5.3 Special protective equipment and precautions for firefighters
+Laballey.com Page 4 of 11
+As in any fire, wear self-contained breathing apparatus pressure-demand, MSHA/NIOSH 
+(approved or equivalent) and full protective gear.
+5.4 Further information
+Flash Point -20 °C / -4 °F (closed cup)
+Autoignition Temperature465 °C / 869°F
+Explosion limits
+Upper 2.5% (V)
+Lower 12.8% (V)
+Sensitivity to Mechanical ImpactNo information available.
+Sensitivity to Static DischargeNo information available.
+NFPA
+Health FlammabilityInstabilityPhysical hazards
+2 3 0 N/A
+SECTION 6: Accidental release measures
+6.1 Personal precautions, protective equipment and emergency procedures
+Use personal protective equipment as required. Ensure adequate ventilation. Remove all 
+sources of ignition. Take precautionary measures against static discharges.
+6.2 Environmental precautions
+Should not be released into the environment.
+6.3 Methods and materials for containment and cleaning up
+Soak up with inert absorbent material. Keep in suitable, closed containers for disposal. 
+Remove all sources of ignition. Use spark-proof tools and explosion-proof equipment.
+6.4 Reference to other sections
+See Section 2 for full list of hazard and precaution statements. 
+SECTION 7: Handling and storage
+7.1 Precautions for safe handling
+Precautions on safe handling
+Do not get in eyes, on skin, or on clothing. Wear personal protective equipment/face 
+protection. Ensure adequate ventilation. Avoid ingestion and inhalation. Keep away from open 
+flames, hot surfaces and sources of ignition. Use only non-sparking tools. To avoid ignition of 
+vapors by static electricity discharge, all metal parts of the equipment must be grounded. Take 
+precautionary measures against static discharges.
+Laballey.com Page 5 of 11
+Hygiene measures
+Handle in accordance with good industrial hygiene and safety practice.
+7.2 Conditions for safe storage, including any incompatibilities
+Storage conditions
+Flammables area. Keep containers tightly closed in a dry, cool and well-ventilated place. Keep 
+away from heat, sparks and flame.
+Incompatibilities
+Strong oxidizing agents. Strong reducing agents. Strong bases. Peroxides. Halogenated 
+compounds. Alkali metals. Amines.
+SECTION 8: Exposure controls/personal protection
+8.1 Occupational exposure limits
+US. OSHA Table Z-1 Limits for Air Contaminants (29 CFR 1910.1000) 
+Component Type Value
+Acetone TWA 1000 ppm 2400 mg/m3
+US. ACGIH Threshold Limit Values
+Component Type Value
+Acetone TWA 250 ppm
+STEL 500 ppm
+US. NIOSH: Pocket Guide to Chemical Hazards
+Component Type Value
+Acetone IDLH 2500 ppm
+TWA 250 ppm 590 mg/m3
+Biological occupational exposure limits
+No information available.
+8.2 Exposure controls
+Appropriate engineering controls
+Ensure adequate ventilation, especially in confined areas. Ensure that eyewash stations and 
+safety showers are close to the workstation location. Use explosion-proof 
+electrical/ventilating/lighting equipment.
+Personal protective equipment
+Eye/face protection
+Wear appropriate protective eyeglasses or chemical safety goggles as described 
+by OSHA's eye and face protection regulations in 29 CFR 1910.133 or European 
+Standard EN166.
+Laballey.com Page 6 of 11
+Skin protection
+Wear appropriate protective gloves.
+Body Protection
+Wear appropriate protective clothing to prevent skin exposure.
+Respiratory protection
+Follow the OSHA respirator regulations found in 29 CFR 1910.134 or European 
+Standard EN 149. Use a NIOSH/MSHA or European Standard EN 149 approved 
+respirator if exposure limits are exceeded or if irritation or other symptoms are 
+experienced.
+Control of environmental exposure
+Do not let product enter drains.
+SECTION 9: Physical and chemical properties
+9.1 Information on basic physical and chemical properties
+Physical State Liquid
+Appearance Colorless
+Odor Sweet. Alcohol-like
+Odor Threshold No information available.
+pH No information available.
+Melting Point/Range -94°C / -137 °F
+Boiling Point/Range 56 °C / 133 °F
+Evaporation Rate No information available.
+Flammability (solid) Not applicable.
+Flammability or explosive limit
+Upper 2.5% (V)
+Lower 12.8% (V)
+Vapor Pressure 245.3 hPa (184.0 mmHg) at 20.0 °C / 68.0 °F
+Vapor Density No information available.
+Density 0.791 g/cm3 at 25 °C / 77 °F
+Solubility Completely soluble
+Partition coefficient; 
+n-octanol/water No information available.
+Autoignition Temp 465 °C / 869°F
+Decomposition Temp Not pertinent
+Viscosity No information available.
+Molecular Formula C3H6O
+Molecular Weight 58.08 g/mol
+VOC Content(%) No information available.
+Oxidizing properties No information available.
+9.2 Other safety information
+Laballey.com Page 7 of 11
+No information available.
+SECTION 10: Stability and reactivity
+10.1Reactivity
+Vapors may form explosive mixture in air.
+10.2Chemical stability
+Stable under normal conditions.
+10.3Possibility of hazardous reactions
+None under normal processing.
+10.4Conditions to avoid
+Heat, flames and sparks. Incompatible products. Keep away from open flames, hot surfaces 
+and sources of ignition.
+10.5Incompatible materials
+Strong oxidizing agents, Strong reducing agents, Strong bases, Peroxides, Halogenated 
+compounds, Alkali metals, Amines.
+10.6Hazardous decomposition products
+Carbon monoxide (CO), Carbon dioxide (CO2), Formaldehyde, Methanol.
+SECTION 11: Toxicological information
+11.1Information on toxicological effects
+Product Information, Component Information
+Acute toxicity
+Component LD50 Oral LD50 Dermal LC50 Inhalation
+Acetone 5800 mg/kg (rat)7426 mg/kg (guinea pig)50100 mg/m3 (rat)
+Skin corrosion/irritation
+No information available.
+Serious eye damage/eye irritation
+Irritating to eyes.
+Respiratory or skin sensitization
+No information available.
+Germ cell mutagenicity
+No information available.
+Carcinogenicity
+Laballey.com Page 8 of 11
+Component CAS IARC NTP ACGIH OSHA Mexico
+Acetone 67-64-1Not listedNot listed Not listed Not listedNot listed
+Specific target organ toxicity - single exposure
+Central nervous system (CNS)
+Specific target organ toxicity - repeated exposure
+Kidney, Liver, Spleen, Blood
+Reproductive toxicity
+No information available.
+Chronic effects
+Symptoms of overexposure may be headache, dizziness, tiredness, nausea and vomiting: 
+May cause pulmonary edema.
+11.2Additional Information
+The toxicological properties have not been fully investigated.
+SECTION 12: Ecological information
+12.1Toxicity
+Product Species Test Results
+Acetone
+NOEC Algae 430 mg/L 96 h
+LC50 Oncorhynchus mykiss5540 mg/L 96 h
+LC50 Alburnus albumus 11000 mg/L 96 h
+LC50 Leuciscus idus 11300 mg/L 48 h
+LC50 Salmo gairdneri 6100 mg/L 24 h
+EC50 Microtox 14500 mg/L 15 min
+EC50 Water flea 8800 mg/L 48 h
+EC50 Water flea 12700 mg/L 48 h
+EC50 Water flea 12600 mg/L 48 h
+12.2Persistence and degradability
+Persistence is unlikely based on information available.
+12.3Bio accumulative potential
+No information available.
+12.4Mobility in soil
+Will likely be mobile in the environment due to its volatility.
+12.5Results of PBT and vPvB assessment
+No information available.
+Laballey.com Page 9 of 11
+12.6Endocrine disrupting properties
+No information available.
+12.7Other adverse effects
+No information available.
+SECTION 13: Disposal considerations
+13.1Waste Disposal Methods
+Chemical waste generators must determine whether a discarded chemical is classified as a 
+hazardous waste. Chemical waste generators must also consult local, regional, and national 
+hazardous waste regulations to ensure complete and accurate classification.
+SECTION 14: Transport information
+DOT (US)
+UN-no UN1090
+Proper Shipping Name Acetone
+Hazard Class 3
+Packing Group II
+IMDG
+UN-no UN1090
+Proper Shipping Name Acetone
+Hazard Class 3
+Packing Group II
+IATA
+UN-no UN1090
+Proper Shipping Name Acetone
+Hazard Class 3
+Packing Group II
+SECTION 15: Regulatory information
+US federal regulationsThis product is a "Hazardous Chemical" as defined by the OSHA 
+Hazard Communication Standard, 29 CFR 1910.1200.
+TSCA Section 12(b) Export Notification (40 CFR 707, Subpt. D)
+Not applicable.
+CERCLA Hazardous Substance List (40 CFR 302.4)
+Listed, RQ: 5000 lb.
+SARA 304 Emergency release notification
+Not regulated.
+Laballey.com Page 10 of 11
+OSHA Specifically Regulated Substances (29 CFR 1910.1001-1053)
+Not regulated.
+Superfund Amendments and Reauthorization Act of 1986 (SARA)
+SARA 302 Extremely hazardous substance
+Not listed.
+SARA 311/312 Hazardous
+See Section 2 for more information.
+SARA 313 (TRI reporting)
+Not regulated.
+Other federal regulations
+Clean Air Act (CAA) Section 112 Hazardous Air Pollutants (HAPs) List
+Not regulated.
+Clean Air Act (CAA) Section 112(r) Accidental Release Prevention (40 CFR 68.130)
+Not regulated.
+Safe Drinking Water Act
+Not regulated.
+FEMA Priority Substances Respiratory Health and Safety in the Flavor 
+Manufacturing Workplace
+Not listed.
+US state regulations
+US. Massachusetts RTK - Substance List
+Listed.
+US. New Jersey Worker and Community Right-to-Know Act
+Listed.
+US. Pennsylvania Worker and Community Right-to-Know Law
+Listed.
+California Proposition 65
+Not listed.
+SECTION 16: Other information
+Issue date: 06/18/2018
+Revision 1: 06/15/2023
+Revision 2: 10/03/2024
+SECTION 17: Disclaimer
+Laballey.com Page 11 of 11
+The information provided on this Safety Data Sheet is correct to the best of our knowledge, 
+information and belief at the date of its publication. The information given is designed only as 
+a guide for safe handling, use, processing, storage, transportation, disposal and release and 
+is not to be considered as a warranty or quality specification. The information relates only to 
+the specific material designated and may not be valid for such material used in combination 
+with any other material or in any process, unless specified in the text.
